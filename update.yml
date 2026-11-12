@@ -1,0 +1,23 @@
+name: Aktualizuj plan
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pobierz plan
+        run: |
+          curl -fsSL "${{ vars.ICS_URL }}" -o plan.new
+          grep -q BEGIN:VCALENDAR plan.new
+          mv plan.new plan.ics
+      - name: Zapisz zmiany
+        run: |
+          git config user.name "plan-bot"
+          git config user.email "plan-bot@users.noreply.github.com"
+          git add plan.ics
+          git diff --cached --quiet || (git commit -m "Aktualizacja planu" && git push)

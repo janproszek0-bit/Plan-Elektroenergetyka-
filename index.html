@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Plan zajęć – Elektroenergetyka PK</title>
+<style>
+:root{--bg:#f3f5f8;--card:#fff;--ink:#14213d;--mut:#5c6b84;--line:#dbe1ea;--acc:#1d4ed8;--today:#e8efff}
+@media(prefers-color-scheme:dark){:root{--bg:#0e1522;--card:#17202f;--ink:#e6ebf5;--mut:#93a1ba;--line:#26324a;--acc:#7aa2ff;--today:#1a2744}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.4 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;padding:env(safe-area-inset-top) 0 env(safe-area-inset-bottom)}
+header{position:sticky;top:0;background:var(--bg);border-bottom:1px solid var(--line);padding:10px 14px;z-index:5}
+.row{display:flex;align-items:center;gap:8px;max-width:640px;margin:0 auto}
+h1{font-size:15px;margin:0;flex:1;font-weight:650}
+button{font:inherit;border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:8px;padding:8px 12px;cursor:pointer}
+button.p{background:var(--acc);border-color:var(--acc);color:#fff}
+button:disabled{opacity:.4}
+.wk{justify-content:space-between;margin-top:8px}
+.wk b{font-size:17px}
+main{max-width:640px;margin:0 auto;padding:12px 14px 40px}
+.day{margin:14px 0 6px;font-weight:650;color:var(--mut);font-size:14px}
+.day.t{color:var(--acc)}
+.none{color:var(--mut);font-size:14px;padding:2px 0 6px}
+.ev{display:flex;gap:10px;background:var(--card);border:1px solid var(--line);border-left:5px solid var(--c);border-radius:10px;padding:10px 12px;margin:6px 0}
+.ev .tm{min-width:48px;font-variant-numeric:tabular-nums;font-size:14px;color:var(--mut)}
+.ev .tm b{display:block;color:var(--ink);font-size:16px}
+.ev .nm{font-weight:650}
+.ev .mt{font-size:14px;color:var(--mut)}
+.tag{display:inline-block;border:1px solid var(--line);border-radius:6px;padding:0 6px;font-size:12px;margin-right:6px}
+.set{padding:6px 0}
+.set h2{font-size:20px;margin:6px 0}
+.set p{color:var(--mut);margin:4px 0 14px}
+.q{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 12px;margin:8px 0}
+.q .nm{font-weight:650;margin-bottom:8px}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chips button{padding:6px 12px}
+.chips button.on{background:var(--acc);border-color:var(--acc);color:#fff}
+.err{padding:20px;color:var(--mut)}
+</style>
+</head>
+<body>
+<header><div class="row"><h1 id="ttl">Plan zajęć</h1><button id="chg" hidden>Moje grupy</button></div>
+<div class="row wk" id="wk" hidden><button id="pv" aria-label="Poprzedni tydzień">‹</button><b id="wl"></b><button id="tdy">Dziś</button><button id="nx" aria-label="Następny tydzień">›</button></div></header>
+<main id="app"><div class="err">Ładowanie planu…</div></main>
+<script>
+var $=function(i){return document.getElementById(i)};
+var DAYS=["niedz.","pon.","wt.","śr.","czw.","pt.","sob."];
+var events=[],calName="plan",choices={},sel={},off=0,minD,maxD;
+
+function unesc(s){return s.replace(/\\n/gi,"\n").replace(/\\([,;])/g,"$1").replace(/\\\\/g,"\\")}
+function pd(s){return new Date(+s.slice(0,4),+s.slice(4,6)-1,+s.slice(6,8),+s.slice(9,11),+s.slice(11,13))}
+function parse(txt){
+  txt=txt.replace(/\r?\n[ \t]/g,"");
+  var m=txt.match(/X-WR-CALNAME:(.*)/);calName=m?m[1].trim():"plan";
+  var out=[],parts=txt.split("BEGIN:VEVENT").slice(1);
+  parts.forEach(function(p){
+    var g=function(k){var r=p.match(new RegExp("^"+k+"[^:\\n]*:(.*)$","m"));return r?r[1].replace(/\r$/,""):""};
+    var d={};unesc(g("DESCRIPTION")).split("\n").forEach(function(l){var i=l.indexOf(":");if(i>0)d[l.slice(0,i).trim()]=l.slice(i+1).trim()});
+    var s=g("DTSTART"),e=g("DTEND");if(!s)return;
+    out.push({s:pd(s),e:e?pd(e):pd(s),sub:d["Przedmiot"]||unesc(g("SUMMARY")).split(",")[0],grp:d["Grupa"]||"",who:d["Prowadzący"]||"",room:d["Sala"]||""});
+  });
+  out.sort(function(a,b){return a.s-b.s});return out;
+}
+function pre(g){return g.replace(/\d+$/,"")}
+function ckey(e){return e.sub+"|"+pre(e.grp)}
+function buildChoices(){
+  var o={};events.forEach(function(e){if(!e.grp)return;var k=ckey(e);(o[k]=o[k]||{sub:e.sub,pre:pre(e.grp),g:{}}).g[e.grp]=1});
+  choices={};Object.keys(o).forEach(function(k){var n=Object.keys(o[k].g);if(n.length>1)choices[k]={sub:o[k].sub,pre:o[k].pre,g:n.sort(function(a,b){return a.localeCompare(b,"pl",{numeric:true})})}});
+}
+function load(){try{sel=JSON.parse(localStorage.getItem("plan:"+calName)||"{}")}catch(x){sel={}}}
+function save(){try{localStorage.setItem("plan:"+calName,JSON.stringify(sel))}catch(x){}}
+function done(){return Object.keys(choices).every(function(k){return sel[k]!==undefined})}
+function vis(e){var k=ckey(e);return !choices[k]||sel[k]===e.grp}
+function col(s){var h=0;for(var i=0;i<s.length;i++)h=(h*31+s.charCodeAt(i))>>>0;return "hsl("+(h%360)+",55%,48%)"}
+function mon(d){var x=new Date(d.getFullYear(),d.getMonth(),d.getDate());x.setDate(x.getDate()-((x.getDay()+6)%7));return x}
+function hm(d){return ("0"+d.getHours()).slice(-2)+":"+("0"+d.getMinutes()).slice(-2)}
+function el(t,c,h){var x=document.createElement(t);if(c)x.className=c;if(h!==undefined)x.textContent=h;return x}
+
+function setup(){
+  $("wk").hidden=true;$("chg").hidden=true;var a=$("app");a.innerHTML="";
+  var w=el("div","set");w.appendChild(el("h2","","Wybierz swoje grupy"));
+  w.appendChild(el("p","","Zaznacz grupę przy każdym przedmiocie. Wybór zapamiętamy w tej przeglądarce."));
+  var go=el("button","p","Pokaż plan");go.disabled=!done();
+  Object.keys(choices).sort(function(a,b){return choices[a].sub.localeCompare(choices[b].sub,"pl")}).forEach(function(k){
+    var c=choices[k],q=el("div","q"),ch=el("div","chips");q.appendChild(el("div","nm",c.sub+(c.pre?" ("+c.pre+")":"")));
+    c.g.concat([""]).forEach(function(g){
+      var b=el("button",sel[k]===g?"on":"",g||"nie dotyczy");
+      b.onclick=function(){sel[k]=g;save();[].forEach.call(ch.children,function(x){x.className=""});b.className="on";go.disabled=!done()};
+      ch.appendChild(b)});
+    q.appendChild(ch);w.appendChild(q)});
+  go.onclick=function(){render(true)};w.appendChild(go);a.appendChild(w);
+}
+function render(reset){
+  if(!done()){setup();return}
+  if(reset)off=0;
+  var now=new Date(),m0=mon(now),first=mon(minD),last=mon(maxD);
+  var wk=new Date(m0);wk.setDate(wk.getDate()+7*off);
+  if(wk<first){wk=first;off=Math.round((wk-m0)/6048e5)}if(wk>last){wk=last;off=Math.round((wk-m0)/6048e5)}
+  var end=new Date(wk);end.setDate(end.getDate()+7);
+  $("wk").hidden=false;$("chg").hidden=false;
+  var fr=new Date(wk),to=new Date(wk);to.setDate(to.getDate()+4);
+  $("wl").textContent=fr.getDate()+"."+(fr.getMonth()+1)+" – "+to.getDate()+"."+(to.getMonth()+1);
+  $("pv").disabled=wk<=first;$("nx").disabled=wk>=last;
+  var a=$("app");a.innerHTML="";
+  var mine=events.filter(function(e){return vis(e)&&e.s>=wk&&e.s<end});
+  for(var i=0;i<7;i++){
+    var d=new Date(wk);d.setDate(d.getDate()+i);
+    var de=mine.filter(function(e){return e.s.getDate()===d.getDate()&&e.s.getMonth()===d.getMonth()});
+    if(i>4&&!de.length)continue;
+    var t=d.toDateString()===now.toDateString();
+    a.appendChild(el("div","day"+(t?" t":""),DAYS[d.getDay()]+" "+d.getDate()+"."+(d.getMonth()+1)+(t?" · dziś":"")));
+    if(!de.length){a.appendChild(el("div","none","brak zajęć"));continue}
+    de.forEach(function(e){
+      var c=el("div","ev");c.style.setProperty("--c",col(e.sub));
+      var tm=el("div","tm");tm.appendChild(el("b","",hm(e.s)));tm.appendChild(document.createTextNode(hm(e.e)));
+      var b=el("div");b.appendChild(el("div","nm",e.sub));
+      var mt=el("div","mt");if(e.grp)mt.appendChild(el("span","tag",e.grp));
+      mt.appendChild(document.createTextNode([e.room&&"s. "+e.room,e.who].filter(Boolean).join(" · ")));
+      b.appendChild(mt);c.appendChild(tm);c.appendChild(b);a.appendChild(c)});
+  }
+}
+function init(txt){
+  events=parse(txt);if(!events.length)throw 0;
+  minD=events[0].s;maxD=events[events.length-1].s;
+  $("ttl").textContent="Plan zajęć · "+calName.replace(/^.*faculty:\s*/,"");
+  buildChoices();load();render(false);
+}
+$("pv").onclick=function(){off--;render(false)};
+$("nx").onclick=function(){off++;render(false)};
+$("tdy").onclick=function(){render(true)};
+$("chg").onclick=setup;
+var sx=0;document.addEventListener("touchstart",function(e){sx=e.touches[0].clientX});
+document.addEventListener("touchend",function(e){var dx=e.changedTouches[0].clientX-sx;if(Math.abs(dx)>80&&!$("wk").hidden){off+=dx<0?1:-1;render(false)}});
+(window.EMBEDDED_ICS?Promise.resolve(window.EMBEDDED_ICS):fetch("plan.ics?"+Date.now()).then(function(r){if(!r.ok)throw 0;return r.text()}))
+ .then(init).catch(function(){$("app").innerHTML='<div class="err">Nie udało się wczytać planu. Spróbuj ponownie później.</div>'});
+</script>
+</body>
+</html>

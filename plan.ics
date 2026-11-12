@@ -1,0 +1,3086 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WK Plan//Export//PL
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Stacjonarne - faculty: EE1s1
+BEGIN:VEVENT
+UID:1789654828556-0cfefd1e346a8-1790860500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261001T151500
+DTEND:20261001T171500
+SUMMARY:Szkolenie z praw i obowiązków\, W\, Samorząd WIEiK\, s. A2\, IwIKs1\, EiAs1\, EE1s1
+DESCRIPTION:Przedmiot: Szkolenie z praw i obowiązków\nGrupa: W\nProwadzący: Samorząd WIEiK\nSala: A2\nKierunek: IwIKs1\, EiAs1\, EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721090666-de33129dd153a-1791178200000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261005T073000
+DTEND:20261005T090000
+SUMMARY:Wstęp do matematyki inżynierskiej\, W2\, dr A. Pudełko\, s. A1\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: W2\nProwadzący: dr A. Pudełko\nSala: A1\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727723680-b7c2a09602e358-1791184500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261005T091500
+DTEND:20261005T104500
+SUMMARY:Język niemiecki\, Lek\, mgr E. Targosz\, s. 150SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język niemiecki\nGrupa: Lek\nProwadzący: mgr E. Targosz\nSala: 150SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724299367-4ff87d73eaf6b-1791187200000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261005T100000
+DTEND:20261005T113000
+SUMMARY:Podstawy elektrotechniki\, C1\, mgr inż. Z. Mielnik\, s. 10\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: C1\nProwadzący: mgr inż. Z. Mielnik\nSala: 10\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724325288-fd327dd2d26d58-1791193500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261005T114500
+DTEND:20261005T131500
+SUMMARY:Podstawy elektrotechniki\, C2\, mgr inż. Z. Mielnik\, s. 10\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: C2\nProwadzący: mgr inż. Z. Mielnik\nSala: 10\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1786020355685-df45b877144208-1791264600000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261006T073000
+DTEND:20261006T090000
+SUMMARY:Wstęp do matematyki inżynierskiej\, W2\, dr A. Pudełko\, s. A4\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: W2\nProwadzący: dr A. Pudełko\nSala: A4\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727316789-83ae0ab25ce268-1791270900000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261006T091500
+DTEND:20261006T104500
+SUMMARY:Język angielski\, Lek2\, mgr J. Firganek\, s. 139SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek2\nProwadzący: mgr J. Firganek\nSala: 139SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727475748-68a1396a68fb88-1791270900000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261006T091500
+DTEND:20261006T104500
+SUMMARY:Język angielski\, Lek1\, mgr A. Dziedziniewicz\, s. 136SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek1\nProwadzący: mgr A. Dziedziniewicz\nSala: 136SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727433522-44025d16489b9-1791277200000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261006T110000
+DTEND:20261006T123000
+SUMMARY:Język angielski\, Lek3\, mgr A. Dziedziniewicz\, s. 136SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek3\nProwadzący: mgr A. Dziedziniewicz\nSala: 136SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725413404-02b507279daea-1791283500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261006T124500
+DTEND:20261006T141500
+SUMMARY:Podstawy elektrotechniki\, W2\, prof. A. Szromba\, s. A2\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: W2\nProwadzący: prof. A. Szromba\nSala: A2\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784726972676-d1c2fcaa06172-1791289800000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261006T143000
+DTEND:20261006T160000
+SUMMARY:Algebra liniowa\, C1\, dr K. Urbańska\, s. 9\, EE1s1
+DESCRIPTION:Przedmiot: Algebra liniowa\nGrupa: C1\nProwadzący: dr K. Urbańska\nSala: 9\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727020159-889030fca6146-1791296100000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261006T161500
+DTEND:20261006T174500
+SUMMARY:Algebra liniowa\, C2\, dr K. Urbańska\, s. 9\, EE1s1
+DESCRIPTION:Przedmiot: Algebra liniowa\nGrupa: C2\nProwadzący: dr K. Urbańska\nSala: 9\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727218785-f92c7a941b90a8-1791302400000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261006T180000
+DTEND:20261006T193000
+SUMMARY:Algebra liniowa\, W2\, dr M. Skrzyński\, s. A3\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Algebra liniowa\nGrupa: W2\nProwadzący: dr M. Skrzyński\nSala: A3\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727886995-0390e7f872cc08-1791357300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261007T091500
+DTEND:20261007T104500
+SUMMARY:Wprowadzenie do studiowania\, S2\, mgr E. Lutyńska\, s. 108D\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do studiowania\nGrupa: S2\nProwadzący: mgr E. Lutyńska\nSala: 108D\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727928028-7e22a10d7c7128-1791363600000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261007T110000
+DTEND:20261007T123000
+SUMMARY:Wprowadzenie do studiowania\, S1\, mgr E. Lutyńska\, s. 108D\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do studiowania\nGrupa: S1\nProwadzący: mgr E. Lutyńska\nSala: 108D\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724445432-f63ef998965358-1791369900000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261007T124500
+DTEND:20261007T141500
+SUMMARY:Podstawy elektrotechniki\, L1\, mgr inż. Z. Mielnik\, s. 04\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: L1\nProwadzący: mgr inż. Z. Mielnik\nSala: 04\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724502860-5b0ec141031f78-1791376200000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261007T143000
+DTEND:20261007T160000
+SUMMARY:Podstawy elektrotechniki\, L3\, dr inż. K. Zaraska\, s. 04\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: L3\nProwadzący: dr inż. K. Zaraska\nSala: 04\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724550733-ed24c9625cb308-1791382500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261007T161500
+DTEND:20261007T174500
+SUMMARY:Podstawy elektrotechniki\, L5\, dr inż. K. Zaraska\, s. 04\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: L5\nProwadzący: dr inż. K. Zaraska\nSala: 04\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1789654621340-850bf851450f18-1791385200000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261007T170000
+DTEND:20261007T174500
+SUMMARY:Szkolenie biblioteczne\, W\, Szkolenie biblioteczne\, s. Szkolenie biblioteczne\, IwIKs1\, EE1s1
+DESCRIPTION:Przedmiot: Szkolenie biblioteczne\nGrupa: W\nProwadzący: Szkolenie biblioteczne\nSala: Szkolenie biblioteczne\nKierunek: IwIKs1\, EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784723736227-6ab2503ee68e7-1791388800000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261007T180000
+DTEND:20261007T201500
+SUMMARY:Wprowadzenie do MATLAB-a\, W2\, dr inż. M. Dudzik\, s. A4\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: W2\nProwadzący: dr inż. M. Dudzik\nSala: A4\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721123247-7adce7de1303a-1791443700000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261008T091500
+DTEND:20261008T113000
+SUMMARY:Wstęp do matematyki inżynierskiej\, C1\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: C1\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784726286878-fd2949abe0b188-1791443700000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261008T091500
+DTEND:20261008T113000
+SUMMARY:Człowiek w świecie technologii\, S2\, prof. K. Węc\, s. 9_\, EE1s1
+DESCRIPTION:Przedmiot: Człowiek w świecie technologii\nGrupa: S2\nProwadzący: prof. K. Węc\nSala: 9_\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721314928-65f70a0bb8d16-1791452700000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261008T114500
+DTEND:20261008T140000
+SUMMARY:Wstęp do matematyki inżynierskiej\, C2\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: C2\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784726356195-f64567d0beb82-1791452700000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261008T114500
+DTEND:20261008T140000
+SUMMARY:Człowiek w świecie technologii\, S1\, prof. K. Węc\, s. 9_\, EE1s1
+DESCRIPTION:Przedmiot: Człowiek w świecie technologii\nGrupa: S1\nProwadzący: prof. K. Węc\nSala: 9_\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725856761-43673c44aceb78-1791461700000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261008T141500
+DTEND:20261008T154500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk3\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk3\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725886545-8d596a2be86948-1791468900000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261008T161500
+DTEND:20261008T174500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk1\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk1\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725938274-e97e058f3263b-1791475200000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261008T180000
+DTEND:20261008T193000
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk2\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk2\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725962881-2e5fd7b20e5b58-1791481500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261008T194500
+DTEND:20261008T211500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk4\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk4\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1789655198299-ff0433f64a79e8-1791529200000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261009T090000
+DTEND:20261009T103000
+SUMMARY:Szkolenie BHP\, W\, prof. W. Drozd\, s. BHP\, EiAs1\, EE1s1
+DESCRIPTION:Przedmiot: Szkolenie BHP\nGrupa: W\nProwadzący: prof. W. Drozd\nSala: BHP\nKierunek: EiAs1\, EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1790443827549-29ce688bb1c128-1791538200000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261009T113000
+DTEND:20261009T130000
+SUMMARY:Wstęp do fizyki inżynierskiej\, C1\, OSi\, s. F204\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do fizyki inżynierskiej\nGrupa: C1\nProwadzący: OSi\nSala: F204\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1790443862967-203a154f52578-1791544500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261009T131500
+DTEND:20261009T144500
+SUMMARY:Wstęp do fizyki inżynierskiej\, W\, OSi\, s. F204\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do fizyki inżynierskiej\nGrupa: W\nProwadzący: OSi\nSala: F204\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1789655042617-5d56277f877b6-1791550800000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261009T150000
+DTEND:20261009T170000
+SUMMARY:Szkolenie świadomościowe\, W\, mgr B. Romek\, s. Szkolenie świadomościowe\, IwIKs1\, EE1s1
+DESCRIPTION:Przedmiot: Szkolenie świadomościowe\nGrupa: W\nProwadzący: mgr B. Romek\nSala: Szkolenie świadomościowe\nKierunek: IwIKs1\, EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1790443899303-33191653b18a98-1791550800000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261009T150000
+DTEND:20261009T163000
+SUMMARY:Wstęp do fizyki inżynierskiej\, C2\, OSi\, s. F204\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do fizyki inżynierskiej\nGrupa: C2\nProwadzący: OSi\nSala: F204\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721090666-de33129dd153a-1791783000000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261012T073000
+DTEND:20261012T090000
+SUMMARY:Wstęp do matematyki inżynierskiej\, W2\, dr A. Pudełko\, s. A1\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: W2\nProwadzący: dr A. Pudełko\nSala: A1\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727723680-b7c2a09602e358-1791789300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261012T091500
+DTEND:20261012T104500
+SUMMARY:Język niemiecki\, Lek\, mgr E. Targosz\, s. 150SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język niemiecki\nGrupa: Lek\nProwadzący: mgr E. Targosz\nSala: 150SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724299367-4ff87d73eaf6b-1791792000000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261012T100000
+DTEND:20261012T113000
+SUMMARY:Podstawy elektrotechniki\, C1\, mgr inż. Z. Mielnik\, s. 10\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: C1\nProwadzący: mgr inż. Z. Mielnik\nSala: 10\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724325288-fd327dd2d26d58-1791798300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261012T114500
+DTEND:20261012T131500
+SUMMARY:Podstawy elektrotechniki\, C2\, mgr inż. Z. Mielnik\, s. 10\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: C2\nProwadzący: mgr inż. Z. Mielnik\nSala: 10\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1786020355685-df45b877144208-1791869400000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261013T073000
+DTEND:20261013T090000
+SUMMARY:Wstęp do matematyki inżynierskiej\, W2\, dr A. Pudełko\, s. A4\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: W2\nProwadzący: dr A. Pudełko\nSala: A4\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727316789-83ae0ab25ce268-1791875700000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261013T091500
+DTEND:20261013T104500
+SUMMARY:Język angielski\, Lek2\, mgr J. Firganek\, s. 139SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek2\nProwadzący: mgr J. Firganek\nSala: 139SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727475748-68a1396a68fb88-1791875700000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261013T091500
+DTEND:20261013T104500
+SUMMARY:Język angielski\, Lek1\, mgr A. Dziedziniewicz\, s. 136SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek1\nProwadzący: mgr A. Dziedziniewicz\nSala: 136SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727433522-44025d16489b9-1791882000000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261013T110000
+DTEND:20261013T123000
+SUMMARY:Język angielski\, Lek3\, mgr A. Dziedziniewicz\, s. 136SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek3\nProwadzący: mgr A. Dziedziniewicz\nSala: 136SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725413404-02b507279daea-1791888300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261013T124500
+DTEND:20261013T141500
+SUMMARY:Podstawy elektrotechniki\, W2\, prof. A. Szromba\, s. A2\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: W2\nProwadzący: prof. A. Szromba\nSala: A2\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784726972676-d1c2fcaa06172-1791894600000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261013T143000
+DTEND:20261013T160000
+SUMMARY:Algebra liniowa\, C1\, dr K. Urbańska\, s. 9\, EE1s1
+DESCRIPTION:Przedmiot: Algebra liniowa\nGrupa: C1\nProwadzący: dr K. Urbańska\nSala: 9\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727020159-889030fca6146-1791900900000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261013T161500
+DTEND:20261013T174500
+SUMMARY:Algebra liniowa\, C2\, dr K. Urbańska\, s. 9\, EE1s1
+DESCRIPTION:Przedmiot: Algebra liniowa\nGrupa: C2\nProwadzący: dr K. Urbańska\nSala: 9\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727218785-f92c7a941b90a8-1791907200000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261013T180000
+DTEND:20261013T193000
+SUMMARY:Algebra liniowa\, W2\, dr M. Skrzyński\, s. A3\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Algebra liniowa\nGrupa: W2\nProwadzący: dr M. Skrzyński\nSala: A3\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724476017-201abb9791279-1791974700000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261014T124500
+DTEND:20261014T141500
+SUMMARY:Podstawy elektrotechniki\, L2\, mgr inż. Z. Mielnik\, s. 04\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: L2\nProwadzący: mgr inż. Z. Mielnik\nSala: 04\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724526860-e6f6779e955d2-1791981000000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261014T143000
+DTEND:20261014T160000
+SUMMARY:Podstawy elektrotechniki\, L4\, dr inż. K. Zaraska\, s. 04\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: L4\nProwadzący: dr inż. K. Zaraska\nSala: 04\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724572236-13cf4a2eccfe6-1791987300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261014T161500
+DTEND:20261014T174500
+SUMMARY:Podstawy elektrotechniki\, L6\, mgr inż. Z. Mielnik\, s. 04\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: L6\nProwadzący: mgr inż. Z. Mielnik\nSala: 04\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784723736227-6ab2503ee68e7-1791993600000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261014T180000
+DTEND:20261014T201500
+SUMMARY:Wprowadzenie do MATLAB-a\, W2\, dr inż. M. Dudzik\, s. A4\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: W2\nProwadzący: dr inż. M. Dudzik\nSala: A4\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721123247-7adce7de1303a-1792048500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261015T091500
+DTEND:20261015T113000
+SUMMARY:Wstęp do matematyki inżynierskiej\, C1\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: C1\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784726286878-fd2949abe0b188-1792048500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261015T091500
+DTEND:20261015T113000
+SUMMARY:Człowiek w świecie technologii\, S2\, prof. K. Węc\, s. A3\, EE1s1
+DESCRIPTION:Przedmiot: Człowiek w świecie technologii\nGrupa: S2\nProwadzący: prof. K. Węc\nSala: A3\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721314928-65f70a0bb8d16-1792057500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261015T114500
+DTEND:20261015T140000
+SUMMARY:Wstęp do matematyki inżynierskiej\, C2\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: C2\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784726356195-f64567d0beb82-1792057500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261015T114500
+DTEND:20261015T140000
+SUMMARY:Człowiek w świecie technologii\, S1\, prof. K. Węc\, s. A3\, EE1s1
+DESCRIPTION:Przedmiot: Człowiek w świecie technologii\nGrupa: S1\nProwadzący: prof. K. Węc\nSala: A3\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725856761-43673c44aceb78-1792066500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261015T141500
+DTEND:20261015T154500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk3\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk3\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725886545-8d596a2be86948-1792073700000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261015T161500
+DTEND:20261015T174500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk1\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk1\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725938274-e97e058f3263b-1792080000000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261015T180000
+DTEND:20261015T193000
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk2\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk2\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725962881-2e5fd7b20e5b58-1792086300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261015T194500
+DTEND:20261015T211500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk4\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk4\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1790443827549-29ce688bb1c128-1792143000000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261016T113000
+DTEND:20261016T130000
+SUMMARY:Wstęp do fizyki inżynierskiej\, C1\, OSi\, s. F204\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do fizyki inżynierskiej\nGrupa: C1\nProwadzący: OSi\nSala: F204\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1790443862967-203a154f52578-1792149300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261016T131500
+DTEND:20261016T144500
+SUMMARY:Wstęp do fizyki inżynierskiej\, W\, OSi\, s. F204\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do fizyki inżynierskiej\nGrupa: W\nProwadzący: OSi\nSala: F204\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1790443899303-33191653b18a98-1792155600000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261016T150000
+DTEND:20261016T163000
+SUMMARY:Wstęp do fizyki inżynierskiej\, C2\, OSi\, s. F204\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do fizyki inżynierskiej\nGrupa: C2\nProwadzący: OSi\nSala: F204\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721090666-de33129dd153a-1792387800000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261019T073000
+DTEND:20261019T090000
+SUMMARY:Wstęp do matematyki inżynierskiej\, W2\, dr A. Pudełko\, s. A1\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: W2\nProwadzący: dr A. Pudełko\nSala: A1\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727723680-b7c2a09602e358-1792394100000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261019T091500
+DTEND:20261019T104500
+SUMMARY:Język niemiecki\, Lek\, mgr E. Targosz\, s. 150SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język niemiecki\nGrupa: Lek\nProwadzący: mgr E. Targosz\nSala: 150SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1786020355685-df45b877144208-1792474200000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261020T073000
+DTEND:20261020T090000
+SUMMARY:Wstęp do matematyki inżynierskiej\, W2\, dr A. Pudełko\, s. A4\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: W2\nProwadzący: dr A. Pudełko\nSala: A4\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727316789-83ae0ab25ce268-1792480500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261020T091500
+DTEND:20261020T104500
+SUMMARY:Język angielski\, Lek2\, mgr J. Firganek\, s. 139SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek2\nProwadzący: mgr J. Firganek\nSala: 139SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727475748-68a1396a68fb88-1792480500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261020T091500
+DTEND:20261020T104500
+SUMMARY:Język angielski\, Lek1\, mgr A. Dziedziniewicz\, s. 136SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek1\nProwadzący: mgr A. Dziedziniewicz\nSala: 136SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727433522-44025d16489b9-1792486800000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261020T110000
+DTEND:20261020T123000
+SUMMARY:Język angielski\, Lek3\, mgr A. Dziedziniewicz\, s. 136SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek3\nProwadzący: mgr A. Dziedziniewicz\nSala: 136SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725413404-02b507279daea-1792493100000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261020T124500
+DTEND:20261020T141500
+SUMMARY:Podstawy elektrotechniki\, W2\, prof. A. Szromba\, s. A2\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: W2\nProwadzący: prof. A. Szromba\nSala: A2\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784726972676-d1c2fcaa06172-1792499400000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261020T143000
+DTEND:20261020T160000
+SUMMARY:Algebra liniowa\, C1\, dr K. Urbańska\, s. 9\, EE1s1
+DESCRIPTION:Przedmiot: Algebra liniowa\nGrupa: C1\nProwadzący: dr K. Urbańska\nSala: 9\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727020159-889030fca6146-1792505700000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261020T161500
+DTEND:20261020T174500
+SUMMARY:Algebra liniowa\, C2\, dr K. Urbańska\, s. 9\, EE1s1
+DESCRIPTION:Przedmiot: Algebra liniowa\nGrupa: C2\nProwadzący: dr K. Urbańska\nSala: 9\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727218785-f92c7a941b90a8-1792512000000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261020T180000
+DTEND:20261020T193000
+SUMMARY:Algebra liniowa\, W2\, dr M. Skrzyński\, s. A3\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Algebra liniowa\nGrupa: W2\nProwadzący: dr M. Skrzyński\nSala: A3\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727886995-0390e7f872cc08-1792566900000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261021T091500
+DTEND:20261021T104500
+SUMMARY:Wprowadzenie do studiowania\, S2\, mgr E. Lutyńska\, s. 108D\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do studiowania\nGrupa: S2\nProwadzący: mgr E. Lutyńska\nSala: 108D\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727928028-7e22a10d7c7128-1792573200000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261021T110000
+DTEND:20261021T123000
+SUMMARY:Wprowadzenie do studiowania\, S1\, mgr E. Lutyńska\, s. 108D\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do studiowania\nGrupa: S1\nProwadzący: mgr E. Lutyńska\nSala: 108D\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724445432-f63ef998965358-1792579500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261021T124500
+DTEND:20261021T141500
+SUMMARY:Podstawy elektrotechniki\, L1\, mgr inż. Z. Mielnik\, s. 04\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: L1\nProwadzący: mgr inż. Z. Mielnik\nSala: 04\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724502860-5b0ec141031f78-1792585800000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261021T143000
+DTEND:20261021T160000
+SUMMARY:Podstawy elektrotechniki\, L3\, dr inż. K. Zaraska\, s. 04\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: L3\nProwadzący: dr inż. K. Zaraska\nSala: 04\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724550733-ed24c9625cb308-1792592100000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261021T161500
+DTEND:20261021T174500
+SUMMARY:Podstawy elektrotechniki\, L5\, dr inż. K. Zaraska\, s. 04\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: L5\nProwadzący: dr inż. K. Zaraska\nSala: 04\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784723736227-6ab2503ee68e7-1792598400000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261021T180000
+DTEND:20261021T201500
+SUMMARY:Wprowadzenie do MATLAB-a\, W2\, dr inż. M. Dudzik\, s. A4\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: W2\nProwadzący: dr inż. M. Dudzik\nSala: A4\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721123247-7adce7de1303a-1792653300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261022T091500
+DTEND:20261022T113000
+SUMMARY:Wstęp do matematyki inżynierskiej\, C1\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: C1\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784726286878-fd2949abe0b188-1792653300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261022T091500
+DTEND:20261022T113000
+SUMMARY:Człowiek w świecie technologii\, S2\, prof. K. Węc\, s. A3\, EE1s1
+DESCRIPTION:Przedmiot: Człowiek w świecie technologii\nGrupa: S2\nProwadzący: prof. K. Węc\nSala: A3\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721314928-65f70a0bb8d16-1792662300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261022T114500
+DTEND:20261022T140000
+SUMMARY:Wstęp do matematyki inżynierskiej\, C2\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: C2\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784726356195-f64567d0beb82-1792662300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261022T114500
+DTEND:20261022T140000
+SUMMARY:Człowiek w świecie technologii\, S1\, prof. K. Węc\, s. A3\, EE1s1
+DESCRIPTION:Przedmiot: Człowiek w świecie technologii\nGrupa: S1\nProwadzący: prof. K. Węc\nSala: A3\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725856761-43673c44aceb78-1792671300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261022T141500
+DTEND:20261022T154500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk3\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk3\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725886545-8d596a2be86948-1792678500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261022T161500
+DTEND:20261022T174500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk1\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk1\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725938274-e97e058f3263b-1792684800000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261022T180000
+DTEND:20261022T193000
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk2\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk2\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725962881-2e5fd7b20e5b58-1792691100000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261022T194500
+DTEND:20261022T211500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk4\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk4\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1790443827549-29ce688bb1c128-1792747800000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261023T113000
+DTEND:20261023T130000
+SUMMARY:Wstęp do fizyki inżynierskiej\, C1\, OSi\, s. F204\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do fizyki inżynierskiej\nGrupa: C1\nProwadzący: OSi\nSala: F204\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1790443862967-203a154f52578-1792754100000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261023T131500
+DTEND:20261023T144500
+SUMMARY:Wstęp do fizyki inżynierskiej\, W\, OSi\, s. F204\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do fizyki inżynierskiej\nGrupa: W\nProwadzący: OSi\nSala: F204\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1790443899303-33191653b18a98-1792760400000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261023T150000
+DTEND:20261023T163000
+SUMMARY:Wstęp do fizyki inżynierskiej\, C2\, OSi\, s. F204\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do fizyki inżynierskiej\nGrupa: C2\nProwadzący: OSi\nSala: F204\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721090666-de33129dd153a-1792996200000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261026T073000
+DTEND:20261026T090000
+SUMMARY:Wstęp do matematyki inżynierskiej\, W2\, dr A. Pudełko\, s. A1\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: W2\nProwadzący: dr A. Pudełko\nSala: A1\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727723680-b7c2a09602e358-1793002500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261026T091500
+DTEND:20261026T104500
+SUMMARY:Język niemiecki\, Lek\, mgr E. Targosz\, s. 150SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język niemiecki\nGrupa: Lek\nProwadzący: mgr E. Targosz\nSala: 150SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724299367-4ff87d73eaf6b-1793005200000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261026T100000
+DTEND:20261026T113000
+SUMMARY:Podstawy elektrotechniki\, C1\, mgr inż. Z. Mielnik\, s. 10\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: C1\nProwadzący: mgr inż. Z. Mielnik\nSala: 10\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724325288-fd327dd2d26d58-1793011500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261026T114500
+DTEND:20261026T131500
+SUMMARY:Podstawy elektrotechniki\, C2\, mgr inż. Z. Mielnik\, s. 10\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: C2\nProwadzący: mgr inż. Z. Mielnik\nSala: 10\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1786020355685-df45b877144208-1793082600000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261027T073000
+DTEND:20261027T090000
+SUMMARY:Wstęp do matematyki inżynierskiej\, W2\, dr A. Pudełko\, s. A4\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: W2\nProwadzący: dr A. Pudełko\nSala: A4\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727316789-83ae0ab25ce268-1793088900000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261027T091500
+DTEND:20261027T104500
+SUMMARY:Język angielski\, Lek2\, mgr J. Firganek\, s. 139SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek2\nProwadzący: mgr J. Firganek\nSala: 139SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727475748-68a1396a68fb88-1793088900000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261027T091500
+DTEND:20261027T104500
+SUMMARY:Język angielski\, Lek1\, mgr A. Dziedziniewicz\, s. 136SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek1\nProwadzący: mgr A. Dziedziniewicz\nSala: 136SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727433522-44025d16489b9-1793095200000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261027T110000
+DTEND:20261027T123000
+SUMMARY:Język angielski\, Lek3\, mgr A. Dziedziniewicz\, s. 136SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek3\nProwadzący: mgr A. Dziedziniewicz\nSala: 136SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725413404-02b507279daea-1793101500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261027T124500
+DTEND:20261027T141500
+SUMMARY:Podstawy elektrotechniki\, W2\, prof. A. Szromba\, s. A2\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: W2\nProwadzący: prof. A. Szromba\nSala: A2\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784726972676-d1c2fcaa06172-1793107800000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261027T143000
+DTEND:20261027T160000
+SUMMARY:Algebra liniowa\, C1\, dr K. Urbańska\, s. 9\, EE1s1
+DESCRIPTION:Przedmiot: Algebra liniowa\nGrupa: C1\nProwadzący: dr K. Urbańska\nSala: 9\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727020159-889030fca6146-1793114100000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261027T161500
+DTEND:20261027T174500
+SUMMARY:Algebra liniowa\, C2\, dr K. Urbańska\, s. 9\, EE1s1
+DESCRIPTION:Przedmiot: Algebra liniowa\nGrupa: C2\nProwadzący: dr K. Urbańska\nSala: 9\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727218785-f92c7a941b90a8-1793120400000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261027T180000
+DTEND:20261027T193000
+SUMMARY:Algebra liniowa\, W2\, dr M. Skrzyński\, s. A3\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Algebra liniowa\nGrupa: W2\nProwadzący: dr M. Skrzyński\nSala: A3\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724299367-4ff87d73eaf6b-1793181600000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261028T110000
+DTEND:20261028T123000
+SUMMARY:Podstawy elektrotechniki\, C1\, mgr inż. Z. Mielnik\, s. A2\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: C1\nProwadzący: mgr inż. Z. Mielnik\nSala: A2\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724476017-201abb9791279-1793187900000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261028T124500
+DTEND:20261028T141500
+SUMMARY:Podstawy elektrotechniki\, L2\, mgr inż. Z. Mielnik\, s. 04\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: L2\nProwadzący: mgr inż. Z. Mielnik\nSala: 04\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724526860-e6f6779e955d2-1793194200000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261028T143000
+DTEND:20261028T160000
+SUMMARY:Podstawy elektrotechniki\, L4\, dr inż. K. Zaraska\, s. 04\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: L4\nProwadzący: dr inż. K. Zaraska\nSala: 04\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784723736227-6ab2503ee68e7-1793206800000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261028T180000
+DTEND:20261028T201500
+SUMMARY:Wprowadzenie do MATLAB-a\, W2\, dr inż. M. Dudzik\, s. A4\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: W2\nProwadzący: dr inż. M. Dudzik\nSala: A4\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721123247-7adce7de1303a-1793261700000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261029T091500
+DTEND:20261029T113000
+SUMMARY:Wstęp do matematyki inżynierskiej\, C1\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: C1\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784726286878-fd2949abe0b188-1793261700000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261029T091500
+DTEND:20261029T113000
+SUMMARY:Człowiek w świecie technologii\, S2\, prof. K. Węc\, s. A3\, EE1s1
+DESCRIPTION:Przedmiot: Człowiek w świecie technologii\nGrupa: S2\nProwadzący: prof. K. Węc\nSala: A3\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721314928-65f70a0bb8d16-1793270700000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261029T114500
+DTEND:20261029T140000
+SUMMARY:Wstęp do matematyki inżynierskiej\, C2\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: C2\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784726356195-f64567d0beb82-1793270700000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261029T114500
+DTEND:20261029T140000
+SUMMARY:Człowiek w świecie technologii\, S1\, prof. K. Węc\, s. A3\, EE1s1
+DESCRIPTION:Przedmiot: Człowiek w świecie technologii\nGrupa: S1\nProwadzący: prof. K. Węc\nSala: A3\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725856761-43673c44aceb78-1793279700000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261029T141500
+DTEND:20261029T154500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk3\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk3\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725886545-8d596a2be86948-1793286900000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261029T161500
+DTEND:20261029T174500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk1\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk1\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725938274-e97e058f3263b-1793293200000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261029T180000
+DTEND:20261029T193000
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk2\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk2\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725962881-2e5fd7b20e5b58-1793299500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261029T194500
+DTEND:20261029T211500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk4\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk4\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1790443827549-29ce688bb1c128-1793356200000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261030T113000
+DTEND:20261030T130000
+SUMMARY:Wstęp do fizyki inżynierskiej\, C1\, OSi\, s. F204\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do fizyki inżynierskiej\nGrupa: C1\nProwadzący: OSi\nSala: F204\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1790443862967-203a154f52578-1793362500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261030T131500
+DTEND:20261030T144500
+SUMMARY:Wstęp do fizyki inżynierskiej\, W\, OSi\, s. F204\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do fizyki inżynierskiej\nGrupa: W\nProwadzący: OSi\nSala: F204\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1790443899303-33191653b18a98-1793368800000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261030T150000
+DTEND:20261030T163000
+SUMMARY:Wstęp do fizyki inżynierskiej\, C2\, OSi\, s. F204\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do fizyki inżynierskiej\nGrupa: C2\nProwadzący: OSi\nSala: F204\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1786020355685-df45b877144208-1793687400000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261103T073000
+DTEND:20261103T090000
+SUMMARY:Wstęp do matematyki inżynierskiej\, W2\, dr A. Pudełko\, s. A4\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: W2\nProwadzący: dr A. Pudełko\nSala: A4\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727316789-83ae0ab25ce268-1793693700000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261103T091500
+DTEND:20261103T104500
+SUMMARY:Język angielski\, Lek2\, mgr J. Firganek\, s. 139SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek2\nProwadzący: mgr J. Firganek\nSala: 139SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727475748-68a1396a68fb88-1793693700000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261103T091500
+DTEND:20261103T104500
+SUMMARY:Język angielski\, Lek1\, mgr A. Dziedziniewicz\, s. 136SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek1\nProwadzący: mgr A. Dziedziniewicz\nSala: 136SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727433522-44025d16489b9-1793700000000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261103T110000
+DTEND:20261103T123000
+SUMMARY:Język angielski\, Lek3\, mgr A. Dziedziniewicz\, s. 136SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek3\nProwadzący: mgr A. Dziedziniewicz\nSala: 136SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725413404-02b507279daea-1793706300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261103T124500
+DTEND:20261103T141500
+SUMMARY:Podstawy elektrotechniki\, W2\, prof. A. Szromba\, s. A2\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: W2\nProwadzący: prof. A. Szromba\nSala: A2\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784726972676-d1c2fcaa06172-1793712600000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261103T143000
+DTEND:20261103T160000
+SUMMARY:Algebra liniowa\, C1\, dr K. Urbańska\, s. 9\, EE1s1
+DESCRIPTION:Przedmiot: Algebra liniowa\nGrupa: C1\nProwadzący: dr K. Urbańska\nSala: 9\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727020159-889030fca6146-1793718900000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261103T161500
+DTEND:20261103T174500
+SUMMARY:Algebra liniowa\, C2\, dr K. Urbańska\, s. 9\, EE1s1
+DESCRIPTION:Przedmiot: Algebra liniowa\nGrupa: C2\nProwadzący: dr K. Urbańska\nSala: 9\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727218785-f92c7a941b90a8-1793725200000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261103T180000
+DTEND:20261103T193000
+SUMMARY:Algebra liniowa\, W2\, dr M. Skrzyński\, s. A3\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Algebra liniowa\nGrupa: W2\nProwadzący: dr M. Skrzyński\nSala: A3\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724325288-fd327dd2d26d58-1793786400000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261104T110000
+DTEND:20261104T123000
+SUMMARY:Podstawy elektrotechniki\, C2\, mgr inż. Z. Mielnik\, s. A2\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: C2\nProwadzący: mgr inż. Z. Mielnik\nSala: A2\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724445432-f63ef998965358-1793792700000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261104T124500
+DTEND:20261104T141500
+SUMMARY:Podstawy elektrotechniki\, L1\, mgr inż. Z. Mielnik\, s. 04\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: L1\nProwadzący: mgr inż. Z. Mielnik\nSala: 04\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724502860-5b0ec141031f78-1793799000000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261104T143000
+DTEND:20261104T160000
+SUMMARY:Podstawy elektrotechniki\, L3\, dr inż. K. Zaraska\, s. 04\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: L3\nProwadzący: dr inż. K. Zaraska\nSala: 04\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724550733-ed24c9625cb308-1793805300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261104T161500
+DTEND:20261104T174500
+SUMMARY:Podstawy elektrotechniki\, L5\, dr inż. K. Zaraska\, s. 04\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: L5\nProwadzący: dr inż. K. Zaraska\nSala: 04\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784723736227-6ab2503ee68e7-1793811600000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261104T180000
+DTEND:20261104T193000
+SUMMARY:Wprowadzenie do MATLAB-a\, W2\, dr inż. M. Dudzik\, s. A4\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: W2\nProwadzący: dr inż. M. Dudzik\nSala: A4\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721123247-7adce7de1303a-1793866500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261105T091500
+DTEND:20261105T113000
+SUMMARY:Wstęp do matematyki inżynierskiej\, C1\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: C1\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784726286878-fd2949abe0b188-1793866500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261105T091500
+DTEND:20261105T113000
+SUMMARY:Człowiek w świecie technologii\, S2\, prof. K. Węc\, s. A3\, EE1s1
+DESCRIPTION:Przedmiot: Człowiek w świecie technologii\nGrupa: S2\nProwadzący: prof. K. Węc\nSala: A3\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721314928-65f70a0bb8d16-1793875500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261105T114500
+DTEND:20261105T140000
+SUMMARY:Wstęp do matematyki inżynierskiej\, C2\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: C2\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784726356195-f64567d0beb82-1793875500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261105T114500
+DTEND:20261105T140000
+SUMMARY:Człowiek w świecie technologii\, S1\, prof. K. Węc\, s. A3\, EE1s1
+DESCRIPTION:Przedmiot: Człowiek w świecie technologii\nGrupa: S1\nProwadzący: prof. K. Węc\nSala: A3\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725856761-43673c44aceb78-1793884500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261105T141500
+DTEND:20261105T154500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk3\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk3\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725886545-8d596a2be86948-1793891700000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261105T161500
+DTEND:20261105T174500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk1\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk1\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725938274-e97e058f3263b-1793898000000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261105T180000
+DTEND:20261105T193000
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk2\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk2\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725962881-2e5fd7b20e5b58-1793904300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261105T194500
+DTEND:20261105T211500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk4\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk4\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1790443827549-29ce688bb1c128-1793961000000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261106T113000
+DTEND:20261106T130000
+SUMMARY:Wstęp do fizyki inżynierskiej\, C1\, OSi\, s. F204\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do fizyki inżynierskiej\nGrupa: C1\nProwadzący: OSi\nSala: F204\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1790443862967-203a154f52578-1793967300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261106T131500
+DTEND:20261106T144500
+SUMMARY:Wstęp do fizyki inżynierskiej\, W\, OSi\, s. F204\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do fizyki inżynierskiej\nGrupa: W\nProwadzący: OSi\nSala: F204\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1790443899303-33191653b18a98-1793973600000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261106T150000
+DTEND:20261106T163000
+SUMMARY:Wstęp do fizyki inżynierskiej\, C2\, OSi\, s. F204\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do fizyki inżynierskiej\nGrupa: C2\nProwadzący: OSi\nSala: F204\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721090666-de33129dd153a-1794205800000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261109T073000
+DTEND:20261109T090000
+SUMMARY:Wstęp do matematyki inżynierskiej\, W2\, dr A. Pudełko\, s. A1\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: W2\nProwadzący: dr A. Pudełko\nSala: A1\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727723680-b7c2a09602e358-1794212100000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261109T091500
+DTEND:20261109T104500
+SUMMARY:Język niemiecki\, Lek\, mgr E. Targosz\, s. 150SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język niemiecki\nGrupa: Lek\nProwadzący: mgr E. Targosz\nSala: 150SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724299367-4ff87d73eaf6b-1794214800000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261109T100000
+DTEND:20261109T113000
+SUMMARY:Podstawy elektrotechniki\, C1\, mgr inż. Z. Mielnik\, s. 10\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: C1\nProwadzący: mgr inż. Z. Mielnik\nSala: 10\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724325288-fd327dd2d26d58-1794221100000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261109T114500
+DTEND:20261109T131500
+SUMMARY:Podstawy elektrotechniki\, C2\, mgr inż. Z. Mielnik\, s. 10\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: C2\nProwadzący: mgr inż. Z. Mielnik\nSala: 10\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1786020355685-df45b877144208-1794292200000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261110T073000
+DTEND:20261110T090000
+SUMMARY:Wstęp do matematyki inżynierskiej\, W2\, dr A. Pudełko\, s. A4\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: W2\nProwadzący: dr A. Pudełko\nSala: A4\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727316789-83ae0ab25ce268-1794298500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261110T091500
+DTEND:20261110T104500
+SUMMARY:Język angielski\, Lek2\, mgr J. Firganek\, s. 139SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek2\nProwadzący: mgr J. Firganek\nSala: 139SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727475748-68a1396a68fb88-1794298500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261110T091500
+DTEND:20261110T104500
+SUMMARY:Język angielski\, Lek1\, mgr A. Dziedziniewicz\, s. 136SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek1\nProwadzący: mgr A. Dziedziniewicz\nSala: 136SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727433522-44025d16489b9-1794304800000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261110T110000
+DTEND:20261110T123000
+SUMMARY:Język angielski\, Lek3\, mgr A. Dziedziniewicz\, s. 136SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek3\nProwadzący: mgr A. Dziedziniewicz\nSala: 136SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725413404-02b507279daea-1794311100000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261110T124500
+DTEND:20261110T141500
+SUMMARY:Podstawy elektrotechniki\, W2\, prof. A. Szromba\, s. A2\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: W2\nProwadzący: prof. A. Szromba\nSala: A2\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784726972676-d1c2fcaa06172-1794317400000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261110T143000
+DTEND:20261110T160000
+SUMMARY:Algebra liniowa\, C1\, dr K. Urbańska\, s. 9\, EE1s1
+DESCRIPTION:Przedmiot: Algebra liniowa\nGrupa: C1\nProwadzący: dr K. Urbańska\nSala: 9\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727020159-889030fca6146-1794323700000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261110T161500
+DTEND:20261110T174500
+SUMMARY:Algebra liniowa\, C2\, dr K. Urbańska\, s. 9\, EE1s1
+DESCRIPTION:Przedmiot: Algebra liniowa\nGrupa: C2\nProwadzący: dr K. Urbańska\nSala: 9\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727218785-f92c7a941b90a8-1794330000000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261110T180000
+DTEND:20261110T193000
+SUMMARY:Algebra liniowa\, W2\, dr M. Skrzyński\, s. A3\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Algebra liniowa\nGrupa: W2\nProwadzący: dr M. Skrzyński\nSala: A3\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721123247-7adce7de1303a-1794471300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261112T091500
+DTEND:20261112T113000
+SUMMARY:Wstęp do matematyki inżynierskiej\, C1\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: C1\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784726286878-fd2949abe0b188-1794471300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261112T091500
+DTEND:20261112T113000
+SUMMARY:Człowiek w świecie technologii\, S2\, prof. K. Węc\, s. A3\, EE1s1
+DESCRIPTION:Przedmiot: Człowiek w świecie technologii\nGrupa: S2\nProwadzący: prof. K. Węc\nSala: A3\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721314928-65f70a0bb8d16-1794480300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261112T114500
+DTEND:20261112T140000
+SUMMARY:Wstęp do matematyki inżynierskiej\, C2\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: C2\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784726356195-f64567d0beb82-1794480300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261112T114500
+DTEND:20261112T140000
+SUMMARY:Człowiek w świecie technologii\, S1\, prof. K. Węc\, s. A3\, EE1s1
+DESCRIPTION:Przedmiot: Człowiek w świecie technologii\nGrupa: S1\nProwadzący: prof. K. Węc\nSala: A3\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725856761-43673c44aceb78-1794489300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261112T141500
+DTEND:20261112T154500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk3\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk3\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725886545-8d596a2be86948-1794496500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261112T161500
+DTEND:20261112T174500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk1\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk1\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725938274-e97e058f3263b-1794502800000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261112T180000
+DTEND:20261112T193000
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk2\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk2\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725962881-2e5fd7b20e5b58-1794509100000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261112T194500
+DTEND:20261112T211500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk4\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk4\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1790443827549-29ce688bb1c128-1794565800000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261113T113000
+DTEND:20261113T130000
+SUMMARY:Wstęp do fizyki inżynierskiej\, C1\, OSi\, s. F204\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do fizyki inżynierskiej\nGrupa: C1\nProwadzący: OSi\nSala: F204\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1790443862967-203a154f52578-1794572100000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261113T131500
+DTEND:20261113T144500
+SUMMARY:Wstęp do fizyki inżynierskiej\, W\, OSi\, s. F204\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do fizyki inżynierskiej\nGrupa: W\nProwadzący: OSi\nSala: F204\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1790443899303-33191653b18a98-1794578400000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261113T150000
+DTEND:20261113T163000
+SUMMARY:Wstęp do fizyki inżynierskiej\, C2\, OSi\, s. F204\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do fizyki inżynierskiej\nGrupa: C2\nProwadzący: OSi\nSala: F204\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721090666-de33129dd153a-1794810600000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261116T073000
+DTEND:20261116T090000
+SUMMARY:Wstęp do matematyki inżynierskiej\, W2\, dr A. Pudełko\, s. A1\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: W2\nProwadzący: dr A. Pudełko\nSala: A1\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727723680-b7c2a09602e358-1794816900000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261116T091500
+DTEND:20261116T104500
+SUMMARY:Język niemiecki\, Lek\, mgr E. Targosz\, s. 150SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język niemiecki\nGrupa: Lek\nProwadzący: mgr E. Targosz\nSala: 150SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724299367-4ff87d73eaf6b-1794819600000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261116T100000
+DTEND:20261116T113000
+SUMMARY:Podstawy elektrotechniki\, C1\, mgr inż. Z. Mielnik\, s. 10\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: C1\nProwadzący: mgr inż. Z. Mielnik\nSala: 10\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724325288-fd327dd2d26d58-1794825900000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261116T114500
+DTEND:20261116T131500
+SUMMARY:Podstawy elektrotechniki\, C2\, mgr inż. Z. Mielnik\, s. 10\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: C2\nProwadzący: mgr inż. Z. Mielnik\nSala: 10\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1786020355685-df45b877144208-1794897000000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261117T073000
+DTEND:20261117T090000
+SUMMARY:Wstęp do matematyki inżynierskiej\, W2\, dr A. Pudełko\, s. A4\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: W2\nProwadzący: dr A. Pudełko\nSala: A4\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727316789-83ae0ab25ce268-1794903300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261117T091500
+DTEND:20261117T104500
+SUMMARY:Język angielski\, Lek2\, mgr J. Firganek\, s. 139SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek2\nProwadzący: mgr J. Firganek\nSala: 139SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727475748-68a1396a68fb88-1794903300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261117T091500
+DTEND:20261117T104500
+SUMMARY:Język angielski\, Lek1\, mgr A. Dziedziniewicz\, s. 136SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek1\nProwadzący: mgr A. Dziedziniewicz\nSala: 136SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727433522-44025d16489b9-1794909600000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261117T110000
+DTEND:20261117T123000
+SUMMARY:Język angielski\, Lek3\, mgr A. Dziedziniewicz\, s. 136SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek3\nProwadzący: mgr A. Dziedziniewicz\nSala: 136SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725413404-02b507279daea-1794915900000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261117T124500
+DTEND:20261117T141500
+SUMMARY:Podstawy elektrotechniki\, W2\, prof. A. Szromba\, s. A2\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: W2\nProwadzący: prof. A. Szromba\nSala: A2\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784726972676-d1c2fcaa06172-1794922200000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261117T143000
+DTEND:20261117T160000
+SUMMARY:Algebra liniowa\, C1\, dr K. Urbańska\, s. 9\, EE1s1
+DESCRIPTION:Przedmiot: Algebra liniowa\nGrupa: C1\nProwadzący: dr K. Urbańska\nSala: 9\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727020159-889030fca6146-1794928500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261117T161500
+DTEND:20261117T174500
+SUMMARY:Algebra liniowa\, C2\, dr K. Urbańska\, s. 9\, EE1s1
+DESCRIPTION:Przedmiot: Algebra liniowa\nGrupa: C2\nProwadzący: dr K. Urbańska\nSala: 9\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727218785-f92c7a941b90a8-1794934800000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261117T180000
+DTEND:20261117T193000
+SUMMARY:Algebra liniowa\, W2\, dr M. Skrzyński\, s. A3\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Algebra liniowa\nGrupa: W2\nProwadzący: dr M. Skrzyński\nSala: A3\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724445432-f63ef998965358-1795002300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261118T124500
+DTEND:20261118T141500
+SUMMARY:Podstawy elektrotechniki\, L1\, mgr inż. Z. Mielnik\, s. 04\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: L1\nProwadzący: mgr inż. Z. Mielnik\nSala: 04\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724502860-5b0ec141031f78-1795008600000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261118T143000
+DTEND:20261118T160000
+SUMMARY:Podstawy elektrotechniki\, L3\, dr inż. K. Zaraska\, s. 04\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: L3\nProwadzący: dr inż. K. Zaraska\nSala: 04\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724550733-ed24c9625cb308-1795014900000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261118T161500
+DTEND:20261118T174500
+SUMMARY:Podstawy elektrotechniki\, L5\, dr inż. K. Zaraska\, s. 04\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: L5\nProwadzący: dr inż. K. Zaraska\nSala: 04\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784723736227-6ab2503ee68e7-1795021200000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261118T180000
+DTEND:20261118T193000
+SUMMARY:Wprowadzenie do MATLAB-a\, W2\, dr inż. M. Dudzik\, s. A4\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: W2\nProwadzący: dr inż. M. Dudzik\nSala: A4\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721123247-7adce7de1303a-1795076100000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261119T091500
+DTEND:20261119T113000
+SUMMARY:Wstęp do matematyki inżynierskiej\, C1\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: C1\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784726286878-fd2949abe0b188-1795076100000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261119T091500
+DTEND:20261119T113000
+SUMMARY:Człowiek w świecie technologii\, S2\, prof. K. Węc\, s. A3\, EE1s1
+DESCRIPTION:Przedmiot: Człowiek w świecie technologii\nGrupa: S2\nProwadzący: prof. K. Węc\nSala: A3\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721314928-65f70a0bb8d16-1795085100000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261119T114500
+DTEND:20261119T140000
+SUMMARY:Wstęp do matematyki inżynierskiej\, C2\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: C2\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784726356195-f64567d0beb82-1795085100000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261119T114500
+DTEND:20261119T140000
+SUMMARY:Człowiek w świecie technologii\, S1\, prof. K. Węc\, s. A3\, EE1s1
+DESCRIPTION:Przedmiot: Człowiek w świecie technologii\nGrupa: S1\nProwadzący: prof. K. Węc\nSala: A3\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725856761-43673c44aceb78-1795094100000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261119T141500
+DTEND:20261119T154500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk3\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk3\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725886545-8d596a2be86948-1795101300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261119T161500
+DTEND:20261119T174500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk1\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk1\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725938274-e97e058f3263b-1795107600000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261119T180000
+DTEND:20261119T193000
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk2\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk2\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725962881-2e5fd7b20e5b58-1795113900000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261119T194500
+DTEND:20261119T211500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk4\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk4\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1790443827549-29ce688bb1c128-1795170600000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261120T113000
+DTEND:20261120T130000
+SUMMARY:Wstęp do fizyki inżynierskiej\, C1\, OSi\, s. F204\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do fizyki inżynierskiej\nGrupa: C1\nProwadzący: OSi\nSala: F204\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1790443862967-203a154f52578-1795176900000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261120T131500
+DTEND:20261120T144500
+SUMMARY:Wstęp do fizyki inżynierskiej\, W\, OSi\, s. F204\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do fizyki inżynierskiej\nGrupa: W\nProwadzący: OSi\nSala: F204\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1790443899303-33191653b18a98-1795183200000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261120T150000
+DTEND:20261120T163000
+SUMMARY:Wstęp do fizyki inżynierskiej\, C2\, OSi\, s. F204\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do fizyki inżynierskiej\nGrupa: C2\nProwadzący: OSi\nSala: F204\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721090666-de33129dd153a-1795415400000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261123T073000
+DTEND:20261123T090000
+SUMMARY:Wstęp do matematyki inżynierskiej\, W2\, dr A. Pudełko\, s. A1\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: W2\nProwadzący: dr A. Pudełko\nSala: A1\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727723680-b7c2a09602e358-1795421700000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261123T091500
+DTEND:20261123T104500
+SUMMARY:Język niemiecki\, Lek\, mgr E. Targosz\, s. 150SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język niemiecki\nGrupa: Lek\nProwadzący: mgr E. Targosz\nSala: 150SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724299367-4ff87d73eaf6b-1795424400000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261123T100000
+DTEND:20261123T113000
+SUMMARY:Podstawy elektrotechniki\, C1\, mgr inż. Z. Mielnik\, s. 10\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: C1\nProwadzący: mgr inż. Z. Mielnik\nSala: 10\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724325288-fd327dd2d26d58-1795430700000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261123T114500
+DTEND:20261123T131500
+SUMMARY:Podstawy elektrotechniki\, C2\, mgr inż. Z. Mielnik\, s. 10\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: C2\nProwadzący: mgr inż. Z. Mielnik\nSala: 10\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1786020355685-df45b877144208-1795501800000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261124T073000
+DTEND:20261124T090000
+SUMMARY:Wstęp do matematyki inżynierskiej\, W2\, dr A. Pudełko\, s. A4\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: W2\nProwadzący: dr A. Pudełko\nSala: A4\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727316789-83ae0ab25ce268-1795508100000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261124T091500
+DTEND:20261124T104500
+SUMMARY:Język angielski\, Lek2\, mgr J. Firganek\, s. 139SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek2\nProwadzący: mgr J. Firganek\nSala: 139SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727475748-68a1396a68fb88-1795508100000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261124T091500
+DTEND:20261124T104500
+SUMMARY:Język angielski\, Lek1\, mgr A. Dziedziniewicz\, s. 136SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek1\nProwadzący: mgr A. Dziedziniewicz\nSala: 136SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727433522-44025d16489b9-1795514400000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261124T110000
+DTEND:20261124T123000
+SUMMARY:Język angielski\, Lek3\, mgr A. Dziedziniewicz\, s. 136SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek3\nProwadzący: mgr A. Dziedziniewicz\nSala: 136SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725413404-02b507279daea-1795520700000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261124T124500
+DTEND:20261124T141500
+SUMMARY:Podstawy elektrotechniki\, W2\, prof. A. Szromba\, s. A2\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: W2\nProwadzący: prof. A. Szromba\nSala: A2\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784726972676-d1c2fcaa06172-1795527000000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261124T143000
+DTEND:20261124T160000
+SUMMARY:Algebra liniowa\, C1\, dr K. Urbańska\, s. 9\, EE1s1
+DESCRIPTION:Przedmiot: Algebra liniowa\nGrupa: C1\nProwadzący: dr K. Urbańska\nSala: 9\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727020159-889030fca6146-1795533300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261124T161500
+DTEND:20261124T174500
+SUMMARY:Algebra liniowa\, C2\, dr K. Urbańska\, s. 9\, EE1s1
+DESCRIPTION:Przedmiot: Algebra liniowa\nGrupa: C2\nProwadzący: dr K. Urbańska\nSala: 9\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727218785-f92c7a941b90a8-1795539600000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261124T180000
+DTEND:20261124T193000
+SUMMARY:Algebra liniowa\, W2\, dr M. Skrzyński\, s. A3\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Algebra liniowa\nGrupa: W2\nProwadzący: dr M. Skrzyński\nSala: A3\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724476017-201abb9791279-1795607100000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261125T124500
+DTEND:20261125T141500
+SUMMARY:Podstawy elektrotechniki\, L2\, mgr inż. Z. Mielnik\, s. 04\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: L2\nProwadzący: mgr inż. Z. Mielnik\nSala: 04\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724526860-e6f6779e955d2-1795613400000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261125T143000
+DTEND:20261125T160000
+SUMMARY:Podstawy elektrotechniki\, L4\, dr inż. K. Zaraska\, s. 04\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: L4\nProwadzący: dr inż. K. Zaraska\nSala: 04\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784723736227-6ab2503ee68e7-1795626000000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261125T180000
+DTEND:20261125T193000
+SUMMARY:Wprowadzenie do MATLAB-a\, W2\, dr inż. M. Dudzik\, s. A4\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: W2\nProwadzący: dr inż. M. Dudzik\nSala: A4\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721123247-7adce7de1303a-1795680000000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261126T090000
+DTEND:20261126T111500
+SUMMARY:Wstęp do matematyki inżynierskiej\, C1\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: C1\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784726286878-fd2949abe0b188-1795680900000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261126T091500
+DTEND:20261126T113000
+SUMMARY:Człowiek w świecie technologii\, S2\, prof. K. Węc\, s. A3\, EE1s1
+DESCRIPTION:Przedmiot: Człowiek w świecie technologii\nGrupa: S2\nProwadzący: prof. K. Węc\nSala: A3\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721314928-65f70a0bb8d16-1795689000000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261126T113000
+DTEND:20261126T134500
+SUMMARY:Wstęp do matematyki inżynierskiej\, C2\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: C2\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784726356195-f64567d0beb82-1795689900000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261126T114500
+DTEND:20261126T140000
+SUMMARY:Człowiek w świecie technologii\, S1\, prof. K. Węc\, s. A3\, EE1s1
+DESCRIPTION:Przedmiot: Człowiek w świecie technologii\nGrupa: S1\nProwadzący: prof. K. Węc\nSala: A3\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725856761-43673c44aceb78-1795698900000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261126T141500
+DTEND:20261126T154500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk3\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk3\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725886545-8d596a2be86948-1795706100000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261126T161500
+DTEND:20261126T174500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk1\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk1\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725938274-e97e058f3263b-1795712400000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261126T180000
+DTEND:20261126T193000
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk2\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk2\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725962881-2e5fd7b20e5b58-1795718700000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261126T194500
+DTEND:20261126T211500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk4\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk4\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1790443827549-29ce688bb1c128-1795775400000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261127T113000
+DTEND:20261127T130000
+SUMMARY:Wstęp do fizyki inżynierskiej\, C1\, OSi\, s. F204\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do fizyki inżynierskiej\nGrupa: C1\nProwadzący: OSi\nSala: F204\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1790443862967-203a154f52578-1795781700000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261127T131500
+DTEND:20261127T144500
+SUMMARY:Wstęp do fizyki inżynierskiej\, W\, OSi\, s. F204\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do fizyki inżynierskiej\nGrupa: W\nProwadzący: OSi\nSala: F204\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1790443899303-33191653b18a98-1795788000000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261127T150000
+DTEND:20261127T163000
+SUMMARY:Wstęp do fizyki inżynierskiej\, C2\, OSi\, s. F204\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do fizyki inżynierskiej\nGrupa: C2\nProwadzący: OSi\nSala: F204\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727723680-b7c2a09602e358-1796026500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261130T091500
+DTEND:20261130T104500
+SUMMARY:Język niemiecki\, Lek\, mgr E. Targosz\, s. 150SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język niemiecki\nGrupa: Lek\nProwadzący: mgr E. Targosz\nSala: 150SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724299367-4ff87d73eaf6b-1796029200000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261130T100000
+DTEND:20261130T113000
+SUMMARY:Podstawy elektrotechniki\, C1\, mgr inż. Z. Mielnik\, s. 10\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: C1\nProwadzący: mgr inż. Z. Mielnik\nSala: 10\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724325288-fd327dd2d26d58-1796035500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261130T114500
+DTEND:20261130T131500
+SUMMARY:Podstawy elektrotechniki\, C2\, mgr inż. Z. Mielnik\, s. 10\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: C2\nProwadzący: mgr inż. Z. Mielnik\nSala: 10\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727316789-83ae0ab25ce268-1796112900000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261201T091500
+DTEND:20261201T104500
+SUMMARY:Język angielski\, Lek2\, mgr J. Firganek\, s. 139SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek2\nProwadzący: mgr J. Firganek\nSala: 139SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727475748-68a1396a68fb88-1796112900000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261201T091500
+DTEND:20261201T104500
+SUMMARY:Język angielski\, Lek1\, mgr A. Dziedziniewicz\, s. 136SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek1\nProwadzący: mgr A. Dziedziniewicz\nSala: 136SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727433522-44025d16489b9-1796119200000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261201T110000
+DTEND:20261201T123000
+SUMMARY:Język angielski\, Lek3\, mgr A. Dziedziniewicz\, s. 136SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek3\nProwadzący: mgr A. Dziedziniewicz\nSala: 136SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725413404-02b507279daea-1796125500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261201T124500
+DTEND:20261201T141500
+SUMMARY:Podstawy elektrotechniki\, W2\, prof. A. Szromba\, s. A2\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: W2\nProwadzący: prof. A. Szromba\nSala: A2\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784726972676-d1c2fcaa06172-1796131800000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261201T143000
+DTEND:20261201T160000
+SUMMARY:Algebra liniowa\, C1\, dr K. Urbańska\, s. 9\, EE1s1
+DESCRIPTION:Przedmiot: Algebra liniowa\nGrupa: C1\nProwadzący: dr K. Urbańska\nSala: 9\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727020159-889030fca6146-1796138100000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261201T161500
+DTEND:20261201T174500
+SUMMARY:Algebra liniowa\, C2\, dr K. Urbańska\, s. 9\, EE1s1
+DESCRIPTION:Przedmiot: Algebra liniowa\nGrupa: C2\nProwadzący: dr K. Urbańska\nSala: 9\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727218785-f92c7a941b90a8-1796144400000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261201T180000
+DTEND:20261201T193000
+SUMMARY:Algebra liniowa\, W2\, dr M. Skrzyński\, s. A3\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Algebra liniowa\nGrupa: W2\nProwadzący: dr M. Skrzyński\nSala: A3\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724445432-f63ef998965358-1796211900000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261202T124500
+DTEND:20261202T141500
+SUMMARY:Podstawy elektrotechniki\, L1\, mgr inż. Z. Mielnik\, s. 04\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: L1\nProwadzący: mgr inż. Z. Mielnik\nSala: 04\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724502860-5b0ec141031f78-1796218200000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261202T143000
+DTEND:20261202T160000
+SUMMARY:Podstawy elektrotechniki\, L3\, dr inż. K. Zaraska\, s. 04\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: L3\nProwadzący: dr inż. K. Zaraska\nSala: 04\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724550733-ed24c9625cb308-1796224500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261202T161500
+DTEND:20261202T174500
+SUMMARY:Podstawy elektrotechniki\, L5\, dr inż. K. Zaraska\, s. 04\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: L5\nProwadzący: dr inż. K. Zaraska\nSala: 04\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784723736227-6ab2503ee68e7-1796230800000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261202T180000
+DTEND:20261202T193000
+SUMMARY:Wprowadzenie do MATLAB-a\, W2\, dr inż. M. Dudzik\, s. A4\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: W2\nProwadzący: dr inż. M. Dudzik\nSala: A4\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721123247-7adce7de1303a-1796284800000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261203T090000
+DTEND:20261203T111500
+SUMMARY:Wstęp do matematyki inżynierskiej\, C1\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: C1\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784726286878-fd2949abe0b188-1796291100000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261203T104500
+DTEND:20261203T113000
+SUMMARY:Człowiek w świecie technologii\, S2\, prof. K. Węc\, s. A3\, EE1s1
+DESCRIPTION:Przedmiot: Człowiek w świecie technologii\nGrupa: S2\nProwadzący: prof. K. Węc\nSala: A3\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721314928-65f70a0bb8d16-1796293800000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261203T113000
+DTEND:20261203T134500
+SUMMARY:Wstęp do matematyki inżynierskiej\, C2\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: C2\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784726356195-f64567d0beb82-1796294700000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261203T114500
+DTEND:20261203T123000
+SUMMARY:Człowiek w świecie technologii\, S1\, prof. K. Węc\, s. A3\, EE1s1
+DESCRIPTION:Przedmiot: Człowiek w świecie technologii\nGrupa: S1\nProwadzący: prof. K. Węc\nSala: A3\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721374103-a40863609cc8c-1796302800000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261203T140000
+DTEND:20261203T161500
+SUMMARY:Wstęp do matematyki inżynierskiej\, S1\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: S1\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725856761-43673c44aceb78-1796303700000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261203T141500
+DTEND:20261203T154500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk3\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk3\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721438845-fc13a9d0ef9228-1796310900000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261203T161500
+DTEND:20261203T183000
+SUMMARY:Wstęp do matematyki inżynierskiej\, S2\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: S2\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725886545-8d596a2be86948-1796310900000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261203T161500
+DTEND:20261203T174500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk1\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk1\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725938274-e97e058f3263b-1796317200000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261203T180000
+DTEND:20261203T193000
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk2\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk2\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725962881-2e5fd7b20e5b58-1796323500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261203T194500
+DTEND:20261203T211500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk4\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk4\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1790443827549-29ce688bb1c128-1796380200000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261204T113000
+DTEND:20261204T130000
+SUMMARY:Wstęp do fizyki inżynierskiej\, C1\, OSi\, s. F204\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do fizyki inżynierskiej\nGrupa: C1\nProwadzący: OSi\nSala: F204\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1790443862967-203a154f52578-1796386500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261204T131500
+DTEND:20261204T144500
+SUMMARY:Wstęp do fizyki inżynierskiej\, W\, OSi\, s. F204\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do fizyki inżynierskiej\nGrupa: W\nProwadzący: OSi\nSala: F204\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1790443899303-33191653b18a98-1796392800000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261204T150000
+DTEND:20261204T163000
+SUMMARY:Wstęp do fizyki inżynierskiej\, C2\, OSi\, s. F204\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do fizyki inżynierskiej\nGrupa: C2\nProwadzący: OSi\nSala: F204\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727723680-b7c2a09602e358-1796631300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261207T091500
+DTEND:20261207T104500
+SUMMARY:Język niemiecki\, Lek\, mgr E. Targosz\, s. 150SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język niemiecki\nGrupa: Lek\nProwadzący: mgr E. Targosz\nSala: 150SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724299367-4ff87d73eaf6b-1796634000000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261207T100000
+DTEND:20261207T113000
+SUMMARY:Podstawy elektrotechniki\, C1\, mgr inż. Z. Mielnik\, s. 10\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: C1\nProwadzący: mgr inż. Z. Mielnik\nSala: 10\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724325288-fd327dd2d26d58-1796640300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261207T114500
+DTEND:20261207T131500
+SUMMARY:Podstawy elektrotechniki\, C2\, mgr inż. Z. Mielnik\, s. 10\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: C2\nProwadzący: mgr inż. Z. Mielnik\nSala: 10\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727316789-83ae0ab25ce268-1796717700000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261208T091500
+DTEND:20261208T104500
+SUMMARY:Język angielski\, Lek2\, mgr J. Firganek\, s. 139SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek2\nProwadzący: mgr J. Firganek\nSala: 139SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727475748-68a1396a68fb88-1796717700000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261208T091500
+DTEND:20261208T104500
+SUMMARY:Język angielski\, Lek1\, mgr A. Dziedziniewicz\, s. 136SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek1\nProwadzący: mgr A. Dziedziniewicz\nSala: 136SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727433522-44025d16489b9-1796724000000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261208T110000
+DTEND:20261208T123000
+SUMMARY:Język angielski\, Lek3\, mgr A. Dziedziniewicz\, s. 136SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek3\nProwadzący: mgr A. Dziedziniewicz\nSala: 136SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725413404-02b507279daea-1796730300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261208T124500
+DTEND:20261208T141500
+SUMMARY:Podstawy elektrotechniki\, W2\, prof. A. Szromba\, s. A2\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: W2\nProwadzący: prof. A. Szromba\nSala: A2\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784726972676-d1c2fcaa06172-1796736600000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261208T143000
+DTEND:20261208T160000
+SUMMARY:Algebra liniowa\, C1\, dr K. Urbańska\, s. 9\, EE1s1
+DESCRIPTION:Przedmiot: Algebra liniowa\nGrupa: C1\nProwadzący: dr K. Urbańska\nSala: 9\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727020159-889030fca6146-1796742900000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261208T161500
+DTEND:20261208T174500
+SUMMARY:Algebra liniowa\, C2\, dr K. Urbańska\, s. 9\, EE1s1
+DESCRIPTION:Przedmiot: Algebra liniowa\nGrupa: C2\nProwadzący: dr K. Urbańska\nSala: 9\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727218785-f92c7a941b90a8-1796749200000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261208T180000
+DTEND:20261208T193000
+SUMMARY:Algebra liniowa\, W2\, dr M. Skrzyński\, s. A3\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Algebra liniowa\nGrupa: W2\nProwadzący: dr M. Skrzyński\nSala: A3\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724476017-201abb9791279-1796816700000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261209T124500
+DTEND:20261209T141500
+SUMMARY:Podstawy elektrotechniki\, L2\, mgr inż. Z. Mielnik\, s. 04\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: L2\nProwadzący: mgr inż. Z. Mielnik\nSala: 04\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724526860-e6f6779e955d2-1796823000000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261209T143000
+DTEND:20261209T160000
+SUMMARY:Podstawy elektrotechniki\, L4\, dr inż. K. Zaraska\, s. 04\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: L4\nProwadzący: dr inż. K. Zaraska\nSala: 04\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784723736227-6ab2503ee68e7-1796835600000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261209T180000
+DTEND:20261209T193000
+SUMMARY:Wprowadzenie do MATLAB-a\, W2\, dr inż. M. Dudzik\, s. A4\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: W2\nProwadzący: dr inż. M. Dudzik\nSala: A4\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721123247-7adce7de1303a-1796889600000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261210T090000
+DTEND:20261210T111500
+SUMMARY:Wstęp do matematyki inżynierskiej\, C1\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: C1\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721314928-65f70a0bb8d16-1796898600000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261210T113000
+DTEND:20261210T134500
+SUMMARY:Wstęp do matematyki inżynierskiej\, C2\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: C2\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721374103-a40863609cc8c-1796907600000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261210T140000
+DTEND:20261210T161500
+SUMMARY:Wstęp do matematyki inżynierskiej\, S1\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: S1\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725856761-43673c44aceb78-1796908500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261210T141500
+DTEND:20261210T154500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk3\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk3\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721438845-fc13a9d0ef9228-1796915700000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261210T161500
+DTEND:20261210T183000
+SUMMARY:Wstęp do matematyki inżynierskiej\, S2\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: S2\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725886545-8d596a2be86948-1796915700000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261210T161500
+DTEND:20261210T174500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk1\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk1\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725938274-e97e058f3263b-1796922000000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261210T180000
+DTEND:20261210T193000
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk2\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk2\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725962881-2e5fd7b20e5b58-1796928300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261210T194500
+DTEND:20261210T211500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk4\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk4\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1790443827549-29ce688bb1c128-1796985000000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261211T113000
+DTEND:20261211T130000
+SUMMARY:Wstęp do fizyki inżynierskiej\, C1\, OSi\, s. F204\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do fizyki inżynierskiej\nGrupa: C1\nProwadzący: OSi\nSala: F204\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1790443862967-203a154f52578-1796991300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261211T131500
+DTEND:20261211T144500
+SUMMARY:Wstęp do fizyki inżynierskiej\, W\, OSi\, s. F204\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do fizyki inżynierskiej\nGrupa: W\nProwadzący: OSi\nSala: F204\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1790443899303-33191653b18a98-1796997600000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261211T150000
+DTEND:20261211T163000
+SUMMARY:Wstęp do fizyki inżynierskiej\, C2\, OSi\, s. F204\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do fizyki inżynierskiej\nGrupa: C2\nProwadzący: OSi\nSala: F204\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727723680-b7c2a09602e358-1797236100000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261214T091500
+DTEND:20261214T104500
+SUMMARY:Język niemiecki\, Lek\, mgr E. Targosz\, s. 150SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język niemiecki\nGrupa: Lek\nProwadzący: mgr E. Targosz\nSala: 150SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724299367-4ff87d73eaf6b-1797238800000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261214T100000
+DTEND:20261214T113000
+SUMMARY:Podstawy elektrotechniki\, C1\, mgr inż. Z. Mielnik\, s. 10\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: C1\nProwadzący: mgr inż. Z. Mielnik\nSala: 10\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724325288-fd327dd2d26d58-1797245100000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261214T114500
+DTEND:20261214T131500
+SUMMARY:Podstawy elektrotechniki\, C2\, mgr inż. Z. Mielnik\, s. 10\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: C2\nProwadzący: mgr inż. Z. Mielnik\nSala: 10\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727316789-83ae0ab25ce268-1797322500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261215T091500
+DTEND:20261215T104500
+SUMMARY:Język angielski\, Lek2\, mgr J. Firganek\, s. 139SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek2\nProwadzący: mgr J. Firganek\nSala: 139SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727475748-68a1396a68fb88-1797322500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261215T091500
+DTEND:20261215T104500
+SUMMARY:Język angielski\, Lek1\, mgr A. Dziedziniewicz\, s. 136SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek1\nProwadzący: mgr A. Dziedziniewicz\nSala: 136SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727433522-44025d16489b9-1797328800000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261215T110000
+DTEND:20261215T123000
+SUMMARY:Język angielski\, Lek3\, mgr A. Dziedziniewicz\, s. 136SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek3\nProwadzący: mgr A. Dziedziniewicz\nSala: 136SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725413404-02b507279daea-1797335100000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261215T124500
+DTEND:20261215T141500
+SUMMARY:Podstawy elektrotechniki\, W2\, prof. A. Szromba\, s. A2\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: W2\nProwadzący: prof. A. Szromba\nSala: A2\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784726972676-d1c2fcaa06172-1797341400000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261215T143000
+DTEND:20261215T160000
+SUMMARY:Algebra liniowa\, C1\, dr K. Urbańska\, s. 9\, EE1s1
+DESCRIPTION:Przedmiot: Algebra liniowa\nGrupa: C1\nProwadzący: dr K. Urbańska\nSala: 9\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727020159-889030fca6146-1797347700000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261215T161500
+DTEND:20261215T174500
+SUMMARY:Algebra liniowa\, C2\, dr K. Urbańska\, s. 9\, EE1s1
+DESCRIPTION:Przedmiot: Algebra liniowa\nGrupa: C2\nProwadzący: dr K. Urbańska\nSala: 9\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727218785-f92c7a941b90a8-1797354000000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261215T180000
+DTEND:20261215T193000
+SUMMARY:Algebra liniowa\, W2\, dr M. Skrzyński\, s. A3\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Algebra liniowa\nGrupa: W2\nProwadzący: dr M. Skrzyński\nSala: A3\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724445432-f63ef998965358-1797421500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261216T124500
+DTEND:20261216T141500
+SUMMARY:Podstawy elektrotechniki\, L1\, mgr inż. Z. Mielnik\, s. 04\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: L1\nProwadzący: mgr inż. Z. Mielnik\nSala: 04\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724502860-5b0ec141031f78-1797427800000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261216T143000
+DTEND:20261216T160000
+SUMMARY:Podstawy elektrotechniki\, L3\, dr inż. K. Zaraska\, s. 04\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: L3\nProwadzący: dr inż. K. Zaraska\nSala: 04\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724550733-ed24c9625cb308-1797434100000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261216T161500
+DTEND:20261216T174500
+SUMMARY:Podstawy elektrotechniki\, L5\, dr inż. K. Zaraska\, s. 04\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: L5\nProwadzący: dr inż. K. Zaraska\nSala: 04\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784723736227-6ab2503ee68e7-1797440400000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261216T180000
+DTEND:20261216T193000
+SUMMARY:Wprowadzenie do MATLAB-a\, W2\, dr inż. M. Dudzik\, s. A4\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: W2\nProwadzący: dr inż. M. Dudzik\nSala: A4\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721123247-7adce7de1303a-1797494400000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261217T090000
+DTEND:20261217T111500
+SUMMARY:Wstęp do matematyki inżynierskiej\, C1\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: C1\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721314928-65f70a0bb8d16-1797503400000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261217T113000
+DTEND:20261217T134500
+SUMMARY:Wstęp do matematyki inżynierskiej\, C2\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: C2\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721374103-a40863609cc8c-1797512400000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261217T140000
+DTEND:20261217T161500
+SUMMARY:Wstęp do matematyki inżynierskiej\, S1\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: S1\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725856761-43673c44aceb78-1797513300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261217T141500
+DTEND:20261217T154500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk3\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk3\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721438845-fc13a9d0ef9228-1797520500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261217T161500
+DTEND:20261217T183000
+SUMMARY:Wstęp do matematyki inżynierskiej\, S2\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: S2\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725886545-8d596a2be86948-1797520500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261217T161500
+DTEND:20261217T174500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk1\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk1\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725938274-e97e058f3263b-1797526800000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261217T180000
+DTEND:20261217T193000
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk2\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk2\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725962881-2e5fd7b20e5b58-1797533100000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261217T194500
+DTEND:20261217T211500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk4\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk4\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1790443827549-29ce688bb1c128-1797589800000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261218T113000
+DTEND:20261218T130000
+SUMMARY:Wstęp do fizyki inżynierskiej\, C1\, OSi\, s. F204\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do fizyki inżynierskiej\nGrupa: C1\nProwadzący: OSi\nSala: F204\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1790443862967-203a154f52578-1797596100000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261218T131500
+DTEND:20261218T144500
+SUMMARY:Wstęp do fizyki inżynierskiej\, W\, OSi\, s. F204\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do fizyki inżynierskiej\nGrupa: W\nProwadzący: OSi\nSala: F204\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1790443899303-33191653b18a98-1797602400000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261218T150000
+DTEND:20261218T163000
+SUMMARY:Wstęp do fizyki inżynierskiej\, C2\, OSi\, s. F204\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do fizyki inżynierskiej\nGrupa: C2\nProwadzący: OSi\nSala: F204\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727723680-b7c2a09602e358-1797840900000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261221T091500
+DTEND:20261221T104500
+SUMMARY:Język niemiecki\, Lek\, mgr E. Targosz\, s. 150SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język niemiecki\nGrupa: Lek\nProwadzący: mgr E. Targosz\nSala: 150SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724299367-4ff87d73eaf6b-1797843600000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261221T100000
+DTEND:20261221T113000
+SUMMARY:Podstawy elektrotechniki\, C1\, mgr inż. Z. Mielnik\, s. 10\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: C1\nProwadzący: mgr inż. Z. Mielnik\nSala: 10\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724325288-fd327dd2d26d58-1797849900000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261221T114500
+DTEND:20261221T131500
+SUMMARY:Podstawy elektrotechniki\, C2\, mgr inż. Z. Mielnik\, s. 10\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: C2\nProwadzący: mgr inż. Z. Mielnik\nSala: 10\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727316789-83ae0ab25ce268-1797927300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261222T091500
+DTEND:20261222T104500
+SUMMARY:Język angielski\, Lek2\, mgr J. Firganek\, s. 139SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek2\nProwadzący: mgr J. Firganek\nSala: 139SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727475748-68a1396a68fb88-1797927300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261222T091500
+DTEND:20261222T104500
+SUMMARY:Język angielski\, Lek1\, mgr A. Dziedziniewicz\, s. 136SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek1\nProwadzący: mgr A. Dziedziniewicz\nSala: 136SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727433522-44025d16489b9-1797933600000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261222T110000
+DTEND:20261222T123000
+SUMMARY:Język angielski\, Lek3\, mgr A. Dziedziniewicz\, s. 136SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek3\nProwadzący: mgr A. Dziedziniewicz\nSala: 136SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725413404-02b507279daea-1797939900000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261222T124500
+DTEND:20261222T141500
+SUMMARY:Podstawy elektrotechniki\, W2\, prof. A. Szromba\, s. A2\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: W2\nProwadzący: prof. A. Szromba\nSala: A2\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784726972676-d1c2fcaa06172-1797946200000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261222T143000
+DTEND:20261222T160000
+SUMMARY:Algebra liniowa\, C1\, dr K. Urbańska\, s. 9\, EE1s1
+DESCRIPTION:Przedmiot: Algebra liniowa\nGrupa: C1\nProwadzący: dr K. Urbańska\nSala: 9\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727020159-889030fca6146-1797952500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261222T161500
+DTEND:20261222T174500
+SUMMARY:Algebra liniowa\, C2\, dr K. Urbańska\, s. 9\, EE1s1
+DESCRIPTION:Przedmiot: Algebra liniowa\nGrupa: C2\nProwadzący: dr K. Urbańska\nSala: 9\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727218785-f92c7a941b90a8-1797958800000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20261222T180000
+DTEND:20261222T193000
+SUMMARY:Algebra liniowa\, W2\, dr M. Skrzyński\, s. A3\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Algebra liniowa\nGrupa: W2\nProwadzący: dr M. Skrzyński\nSala: A3\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721123247-7adce7de1303a-1799308800000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270107T090000
+DTEND:20270107T111500
+SUMMARY:Wstęp do matematyki inżynierskiej\, C1\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: C1\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721314928-65f70a0bb8d16-1799317800000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270107T113000
+DTEND:20270107T134500
+SUMMARY:Wstęp do matematyki inżynierskiej\, C2\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: C2\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721374103-a40863609cc8c-1799326800000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270107T140000
+DTEND:20270107T161500
+SUMMARY:Wstęp do matematyki inżynierskiej\, S1\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: S1\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725856761-43673c44aceb78-1799327700000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270107T141500
+DTEND:20270107T154500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk3\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk3\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721438845-fc13a9d0ef9228-1799334900000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270107T161500
+DTEND:20270107T183000
+SUMMARY:Wstęp do matematyki inżynierskiej\, S2\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: S2\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725886545-8d596a2be86948-1799334900000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270107T161500
+DTEND:20270107T174500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk1\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk1\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725938274-e97e058f3263b-1799341200000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270107T180000
+DTEND:20270107T193000
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk2\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk2\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725962881-2e5fd7b20e5b58-1799347500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270107T194500
+DTEND:20270107T211500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk4\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk4\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1790443827549-29ce688bb1c128-1799404200000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270108T113000
+DTEND:20270108T130000
+SUMMARY:Wstęp do fizyki inżynierskiej\, C1\, OSi\, s. F204\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do fizyki inżynierskiej\nGrupa: C1\nProwadzący: OSi\nSala: F204\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1790443862967-203a154f52578-1799410500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270108T131500
+DTEND:20270108T144500
+SUMMARY:Wstęp do fizyki inżynierskiej\, W\, OSi\, s. F204\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do fizyki inżynierskiej\nGrupa: W\nProwadzący: OSi\nSala: F204\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1790443899303-33191653b18a98-1799416800000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270108T150000
+DTEND:20270108T163000
+SUMMARY:Wstęp do fizyki inżynierskiej\, C2\, OSi\, s. F204\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do fizyki inżynierskiej\nGrupa: C2\nProwadzący: OSi\nSala: F204\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727723680-b7c2a09602e358-1799655300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270111T091500
+DTEND:20270111T104500
+SUMMARY:Język niemiecki\, Lek\, mgr E. Targosz\, s. 150SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język niemiecki\nGrupa: Lek\nProwadzący: mgr E. Targosz\nSala: 150SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724299367-4ff87d73eaf6b-1799658000000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270111T100000
+DTEND:20270111T113000
+SUMMARY:Podstawy elektrotechniki\, C1\, mgr inż. Z. Mielnik\, s. 10\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: C1\nProwadzący: mgr inż. Z. Mielnik\nSala: 10\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724325288-fd327dd2d26d58-1799664300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270111T114500
+DTEND:20270111T131500
+SUMMARY:Podstawy elektrotechniki\, C2\, mgr inż. Z. Mielnik\, s. 10\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: C2\nProwadzący: mgr inż. Z. Mielnik\nSala: 10\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727316789-83ae0ab25ce268-1799741700000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270112T091500
+DTEND:20270112T104500
+SUMMARY:Język angielski\, Lek2\, mgr J. Firganek\, s. 139SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek2\nProwadzący: mgr J. Firganek\nSala: 139SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727475748-68a1396a68fb88-1799741700000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270112T091500
+DTEND:20270112T104500
+SUMMARY:Język angielski\, Lek1\, mgr A. Dziedziniewicz\, s. 136SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek1\nProwadzący: mgr A. Dziedziniewicz\nSala: 136SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727433522-44025d16489b9-1799748000000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270112T110000
+DTEND:20270112T123000
+SUMMARY:Język angielski\, Lek3\, mgr A. Dziedziniewicz\, s. 136SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek3\nProwadzący: mgr A. Dziedziniewicz\nSala: 136SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725413404-02b507279daea-1799754300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270112T124500
+DTEND:20270112T141500
+SUMMARY:Podstawy elektrotechniki\, W2\, prof. A. Szromba\, s. A2\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: W2\nProwadzący: prof. A. Szromba\nSala: A2\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784726972676-d1c2fcaa06172-1799760600000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270112T143000
+DTEND:20270112T151500
+SUMMARY:Algebra liniowa\, C1\, dr K. Urbańska\, s. 9\, EE1s1
+DESCRIPTION:Przedmiot: Algebra liniowa\nGrupa: C1\nProwadzący: dr K. Urbańska\nSala: 9\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727020159-889030fca6146-1799763300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270112T151500
+DTEND:20270112T160000
+SUMMARY:Algebra liniowa\, C2\, dr K. Urbańska\, s. 9\, EE1s1
+DESCRIPTION:Przedmiot: Algebra liniowa\nGrupa: C2\nProwadzący: dr K. Urbańska\nSala: 9\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727218785-f92c7a941b90a8-1799773200000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270112T180000
+DTEND:20270112T184500
+SUMMARY:Algebra liniowa\, W2\, dr M. Skrzyński\, s. A3\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Algebra liniowa\nGrupa: W2\nProwadzący: dr M. Skrzyński\nSala: A3\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724445432-f63ef998965358-1799840700000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270113T124500
+DTEND:20270113T141500
+SUMMARY:Podstawy elektrotechniki\, L1\, mgr inż. Z. Mielnik\, s. 04\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: L1\nProwadzący: mgr inż. Z. Mielnik\nSala: 04\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724502860-5b0ec141031f78-1799847000000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270113T143000
+DTEND:20270113T160000
+SUMMARY:Podstawy elektrotechniki\, L3\, dr inż. K. Zaraska\, s. 04\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: L3\nProwadzący: dr inż. K. Zaraska\nSala: 04\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724550733-ed24c9625cb308-1799853300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270113T161500
+DTEND:20270113T174500
+SUMMARY:Podstawy elektrotechniki\, L5\, dr inż. K. Zaraska\, s. 04\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: L5\nProwadzący: dr inż. K. Zaraska\nSala: 04\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784723736227-6ab2503ee68e7-1799859600000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270113T180000
+DTEND:20270113T193000
+SUMMARY:Wprowadzenie do MATLAB-a\, W2\, dr inż. M. Dudzik\, s. A4\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: W2\nProwadzący: dr inż. M. Dudzik\nSala: A4\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721123247-7adce7de1303a-1799913600000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270114T090000
+DTEND:20270114T111500
+SUMMARY:Wstęp do matematyki inżynierskiej\, C1\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: C1\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721314928-65f70a0bb8d16-1799922600000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270114T113000
+DTEND:20270114T134500
+SUMMARY:Wstęp do matematyki inżynierskiej\, C2\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: C2\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721374103-a40863609cc8c-1799931600000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270114T140000
+DTEND:20270114T161500
+SUMMARY:Wstęp do matematyki inżynierskiej\, S1\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: S1\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725856761-43673c44aceb78-1799932500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270114T141500
+DTEND:20270114T154500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk3\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk3\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721438845-fc13a9d0ef9228-1799939700000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270114T161500
+DTEND:20270114T183000
+SUMMARY:Wstęp do matematyki inżynierskiej\, S2\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: S2\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725886545-8d596a2be86948-1799939700000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270114T161500
+DTEND:20270114T174500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk1\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk1\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725938274-e97e058f3263b-1799946000000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270114T180000
+DTEND:20270114T193000
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk2\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk2\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725962881-2e5fd7b20e5b58-1799952300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270114T194500
+DTEND:20270114T211500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk4\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk4\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1790443827549-29ce688bb1c128-1800009000000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270115T113000
+DTEND:20270115T121500
+SUMMARY:Wstęp do fizyki inżynierskiej\, C1\, OSi\, s. F204\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do fizyki inżynierskiej\nGrupa: C1\nProwadzący: OSi\nSala: F204\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1790443862967-203a154f52578-1800015300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270115T131500
+DTEND:20270115T140000
+SUMMARY:Wstęp do fizyki inżynierskiej\, W\, OSi\, s. F204\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do fizyki inżynierskiej\nGrupa: W\nProwadzący: OSi\nSala: F204\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1790443899303-33191653b18a98-1800021600000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270115T150000
+DTEND:20270115T154500
+SUMMARY:Wstęp do fizyki inżynierskiej\, C2\, OSi\, s. F204\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do fizyki inżynierskiej\nGrupa: C2\nProwadzący: OSi\nSala: F204\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727723680-b7c2a09602e358-1800260100000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270118T091500
+DTEND:20270118T104500
+SUMMARY:Język niemiecki\, Lek\, mgr E. Targosz\, s. 150SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język niemiecki\nGrupa: Lek\nProwadzący: mgr E. Targosz\nSala: 150SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724299367-4ff87d73eaf6b-1800262800000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270118T100000
+DTEND:20270118T113000
+SUMMARY:Podstawy elektrotechniki\, C1\, mgr inż. Z. Mielnik\, s. 10\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: C1\nProwadzący: mgr inż. Z. Mielnik\nSala: 10\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724325288-fd327dd2d26d58-1800269100000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270118T114500
+DTEND:20270118T131500
+SUMMARY:Podstawy elektrotechniki\, C2\, mgr inż. Z. Mielnik\, s. 10\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: C2\nProwadzący: mgr inż. Z. Mielnik\nSala: 10\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727316789-83ae0ab25ce268-1800346500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270119T091500
+DTEND:20270119T104500
+SUMMARY:Język angielski\, Lek2\, mgr J. Firganek\, s. 139SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek2\nProwadzący: mgr J. Firganek\nSala: 139SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727475748-68a1396a68fb88-1800346500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270119T091500
+DTEND:20270119T104500
+SUMMARY:Język angielski\, Lek1\, mgr A. Dziedziniewicz\, s. 136SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek1\nProwadzący: mgr A. Dziedziniewicz\nSala: 136SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727433522-44025d16489b9-1800352800000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270119T110000
+DTEND:20270119T123000
+SUMMARY:Język angielski\, Lek3\, mgr A. Dziedziniewicz\, s. 136SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek3\nProwadzący: mgr A. Dziedziniewicz\nSala: 136SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725413404-02b507279daea-1800359100000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270119T124500
+DTEND:20270119T141500
+SUMMARY:Podstawy elektrotechniki\, W2\, prof. A. Szromba\, s. A2\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: W2\nProwadzący: prof. A. Szromba\nSala: A2\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724476017-201abb9791279-1800445500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270120T124500
+DTEND:20270120T141500
+SUMMARY:Podstawy elektrotechniki\, L2\, mgr inż. Z. Mielnik\, s. 04\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: L2\nProwadzący: mgr inż. Z. Mielnik\nSala: 04\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724526860-e6f6779e955d2-1800451800000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270120T143000
+DTEND:20270120T160000
+SUMMARY:Podstawy elektrotechniki\, L4\, dr inż. K. Zaraska\, s. 04\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: L4\nProwadzący: dr inż. K. Zaraska\nSala: 04\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784723736227-6ab2503ee68e7-1800464400000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270120T180000
+DTEND:20270120T193000
+SUMMARY:Wprowadzenie do MATLAB-a\, W2\, dr inż. M. Dudzik\, s. A4\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: W2\nProwadzący: dr inż. M. Dudzik\nSala: A4\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721123247-7adce7de1303a-1800518400000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270121T090000
+DTEND:20270121T111500
+SUMMARY:Wstęp do matematyki inżynierskiej\, C1\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: C1\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721314928-65f70a0bb8d16-1800527400000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270121T113000
+DTEND:20270121T134500
+SUMMARY:Wstęp do matematyki inżynierskiej\, C2\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: C2\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721374103-a40863609cc8c-1800536400000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270121T140000
+DTEND:20270121T161500
+SUMMARY:Wstęp do matematyki inżynierskiej\, S1\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: S1\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725856761-43673c44aceb78-1800537300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270121T141500
+DTEND:20270121T154500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk3\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk3\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721438845-fc13a9d0ef9228-1800544500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270121T161500
+DTEND:20270121T183000
+SUMMARY:Wstęp do matematyki inżynierskiej\, S2\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: S2\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725886545-8d596a2be86948-1800544500000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270121T161500
+DTEND:20270121T174500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk1\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk1\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725938274-e97e058f3263b-1800550800000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270121T180000
+DTEND:20270121T193000
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk2\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk2\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725962881-2e5fd7b20e5b58-1800557100000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270121T194500
+DTEND:20270121T211500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk4\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk4\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727723680-b7c2a09602e358-1800864900000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270125T091500
+DTEND:20270125T104500
+SUMMARY:Język niemiecki\, Lek\, mgr E. Targosz\, s. 150SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język niemiecki\nGrupa: Lek\nProwadzący: mgr E. Targosz\nSala: 150SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724299367-4ff87d73eaf6b-1800867600000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270125T100000
+DTEND:20270125T113000
+SUMMARY:Podstawy elektrotechniki\, C1\, mgr inż. Z. Mielnik\, s. 10\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: C1\nProwadzący: mgr inż. Z. Mielnik\nSala: 10\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724325288-fd327dd2d26d58-1800873900000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270125T114500
+DTEND:20270125T131500
+SUMMARY:Podstawy elektrotechniki\, C2\, mgr inż. Z. Mielnik\, s. 10\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: C2\nProwadzący: mgr inż. Z. Mielnik\nSala: 10\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724476017-201abb9791279-1800951300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270126T091500
+DTEND:20270126T104500
+SUMMARY:Podstawy elektrotechniki\, L2\, mgr inż. Z. Mielnik\, s. 04\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: L2\nProwadzący: mgr inż. Z. Mielnik\nSala: 04\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727316789-83ae0ab25ce268-1800951300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270126T091500
+DTEND:20270126T104500
+SUMMARY:Język angielski\, Lek2\, mgr J. Firganek\, s. 139SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek2\nProwadzący: mgr J. Firganek\nSala: 139SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727475748-68a1396a68fb88-1800951300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270126T091500
+DTEND:20270126T104500
+SUMMARY:Język angielski\, Lek1\, mgr A. Dziedziniewicz\, s. 136SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek1\nProwadzący: mgr A. Dziedziniewicz\nSala: 136SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727433522-44025d16489b9-1800957600000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270126T110000
+DTEND:20270126T123000
+SUMMARY:Język angielski\, Lek3\, mgr A. Dziedziniewicz\, s. 136SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek3\nProwadzący: mgr A. Dziedziniewicz\nSala: 136SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725413404-02b507279daea-1800963900000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270126T124500
+DTEND:20270126T141500
+SUMMARY:Podstawy elektrotechniki\, W2\, prof. A. Szromba\, s. A2\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: W2\nProwadzący: prof. A. Szromba\nSala: A2\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724526860-e6f6779e955d2-1801035000000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270127T083000
+DTEND:20270127T104500
+SUMMARY:Podstawy elektrotechniki\, L4\, dr inż. K. Zaraska\, s. 04\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: L4\nProwadzący: dr inż. K. Zaraska\nSala: 04\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724445432-f63ef998965358-1801050300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270127T124500
+DTEND:20270127T133000
+SUMMARY:Podstawy elektrotechniki\, L1\, mgr inż. Z. Mielnik\, s. 04\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: L1\nProwadzący: mgr inż. Z. Mielnik\nSala: 04\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724476017-201abb9791279-1801053000000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270127T133000
+DTEND:20270127T141500
+SUMMARY:Podstawy elektrotechniki\, L2\, mgr inż. Z. Mielnik\, s. 04\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: L2\nProwadzący: mgr inż. Z. Mielnik\nSala: 04\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724502860-5b0ec141031f78-1801056600000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270127T143000
+DTEND:20270127T151500
+SUMMARY:Podstawy elektrotechniki\, L3\, dr inż. K. Zaraska\, s. 04\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: L3\nProwadzący: dr inż. K. Zaraska\nSala: 04\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724550733-ed24c9625cb308-1801062900000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270127T161500
+DTEND:20270127T170000
+SUMMARY:Podstawy elektrotechniki\, L5\, dr inż. K. Zaraska\, s. 04\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: L5\nProwadzący: dr inż. K. Zaraska\nSala: 04\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784723736227-6ab2503ee68e7-1801069200000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270127T180000
+DTEND:20270127T193000
+SUMMARY:Wprowadzenie do MATLAB-a\, W2\, dr inż. M. Dudzik\, s. A4\, EE1s1\, EiAs1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: W2\nProwadzący: dr inż. M. Dudzik\nSala: A4\nKierunek: EE1s1\, EiAs1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721123247-7adce7de1303a-1801123200000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270128T090000
+DTEND:20270128T111500
+SUMMARY:Wstęp do matematyki inżynierskiej\, C1\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: C1\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721314928-65f70a0bb8d16-1801132200000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270128T113000
+DTEND:20270128T134500
+SUMMARY:Wstęp do matematyki inżynierskiej\, C2\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: C2\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721374103-a40863609cc8c-1801141200000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270128T140000
+DTEND:20270128T161500
+SUMMARY:Wstęp do matematyki inżynierskiej\, S1\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: S1\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725856761-43673c44aceb78-1801142100000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270128T141500
+DTEND:20270128T154500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk3\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk3\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721438845-fc13a9d0ef9228-1801149300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270128T161500
+DTEND:20270128T183000
+SUMMARY:Wstęp do matematyki inżynierskiej\, S2\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: S2\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725886545-8d596a2be86948-1801149300000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270128T161500
+DTEND:20270128T174500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk1\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk1\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725938274-e97e058f3263b-1801155600000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270128T180000
+DTEND:20270128T193000
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk2\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk2\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784725962881-2e5fd7b20e5b58-1801161900000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270128T194500
+DTEND:20270128T211500
+SUMMARY:Wprowadzenie do MATLAB-a\, Lk4\, dr inż. A. Dziechciarz\, s. 13\, EE1s1
+DESCRIPTION:Przedmiot: Wprowadzenie do MATLAB-a\nGrupa: Lk4\nProwadzący: dr inż. A. Dziechciarz\nSala: 13\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727723680-b7c2a09602e358-1801469700000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270201T091500
+DTEND:20270201T104500
+SUMMARY:Język niemiecki\, Lek\, mgr E. Targosz\, s. 150SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język niemiecki\nGrupa: Lek\nProwadzący: mgr E. Targosz\nSala: 150SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724299367-4ff87d73eaf6b-1801472400000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270201T100000
+DTEND:20270201T113000
+SUMMARY:Podstawy elektrotechniki\, C1\, mgr inż. Z. Mielnik\, s. 10\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: C1\nProwadzący: mgr inż. Z. Mielnik\nSala: 10\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724325288-fd327dd2d26d58-1801478700000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270201T114500
+DTEND:20270201T131500
+SUMMARY:Podstawy elektrotechniki\, C2\, mgr inż. Z. Mielnik\, s. 10\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: C2\nProwadzący: mgr inż. Z. Mielnik\nSala: 10\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727475748-68a1396a68fb88-1801556100000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270202T091500
+DTEND:20270202T104500
+SUMMARY:Język angielski\, Lek1\, mgr A. Dziedziniewicz\, s. 136SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek1\nProwadzący: mgr A. Dziedziniewicz\nSala: 136SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721374103-a40863609cc8c-1801558800000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270202T100000
+DTEND:20270202T130000
+SUMMARY:Wstęp do matematyki inżynierskiej\, S1\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: S1\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784727433522-44025d16489b9-1801562400000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270202T110000
+DTEND:20270202T123000
+SUMMARY:Język angielski\, Lek3\, mgr A. Dziedziniewicz\, s. 136SJO\, EE1s1
+DESCRIPTION:Przedmiot: Język angielski\nGrupa: Lek3\nProwadzący: mgr A. Dziedziniewicz\nSala: 136SJO\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784721438845-fc13a9d0ef9228-1801569600000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270202T130000
+DTEND:20270202T160000
+SUMMARY:Wstęp do matematyki inżynierskiej\, S2\, dr K. Król\, s. A1\, EE1s1
+DESCRIPTION:Przedmiot: Wstęp do matematyki inżynierskiej\nGrupa: S2\nProwadzący: dr K. Król\nSala: A1\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724476017-201abb9791279-1801575000000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270202T143000
+DTEND:20270202T160000
+SUMMARY:Podstawy elektrotechniki\, L2\, mgr inż. Z. Mielnik\, s. 04\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: L2\nProwadzący: mgr inż. Z. Mielnik\nSala: 04\nKierunek: EE1s1
+END:VEVENT
+BEGIN:VEVENT
+UID:1784724526860-e6f6779e955d2-1801587600000@wk-plan
+DTSTAMP:20261112T145608
+DTSTART:20270202T180000
+DTEND:20270202T193000
+SUMMARY:Podstawy elektrotechniki\, L4\, dr inż. K. Zaraska\, s. 04\, EE1s1
+DESCRIPTION:Przedmiot: Podstawy elektrotechniki\nGrupa: L4\nProwadzący: dr inż. K. Zaraska\nSala: 04\nKierunek: EE1s1
+END:VEVENT
+END:VCALENDAR
