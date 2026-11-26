@@ -134,6 +134,7 @@ main{max-width:700px;margin:0 auto;padding:12px 16px 56px}
   color:var(--mut);
 }
 .day.t{color:var(--ink);border-bottom-color:var(--gx)}
+.day.past{opacity:.42}
 .day .badge{
   font-size:11px;font-weight:700;padding:2px 9px;
   background:var(--gx);color:#fff;
@@ -145,6 +146,7 @@ main{max-width:700px;margin:0 auto;padding:12px 16px 56px}
   background:var(--card);border-left:3px solid var(--line);
   text-transform:uppercase;
 }
+.none.past{opacity:.42}
 
 /* Okienko — neutralny stalowy HUD */
 .gap{
@@ -162,6 +164,7 @@ main{max-width:700px;margin:0 auto;padding:12px 16px 56px}
   clip-path:polygon(0 0,calc(100% - 10px) 0,100% 10px,100% 100%,0 100%);
   font-size:12px;font-weight:700;text-transform:uppercase;
 }
+.gap.past{opacity:.42;filter:saturate(.5)}
 .gap .lbl{color:var(--mut);display:flex;align-items:center;gap:6px}
 .gap .lbl b{color:var(--gap-ink)}
 .gap .dur{
@@ -384,7 +387,8 @@ function setup(){
 function render(reset){
   if(!done()){setup();return}
   if(reset)off=0;
-  var now=new Date(),m0=mon(now),first=mon(minD),last=mon(maxD);
+  var now=new Date(),todayStart=new Date(now.getFullYear(),now.getMonth(),now.getDate());
+  var m0=mon(now),first=mon(minD),last=mon(maxD);
   var wk=new Date(m0);wk.setDate(wk.getDate()+7*off);
   if(wk<first){wk=first;off=Math.round((wk-m0)/6048e5)}if(wk>last){wk=last;off=Math.round((wk-m0)/6048e5)}
   var end=new Date(wk);end.setDate(end.getDate()+7);
@@ -402,17 +406,19 @@ function render(reset){
     var de=mine.filter(function(e){return e.s.getDate()===d.getDate()&&e.s.getMonth()===d.getMonth()});
     if(i>4&&!de.length)continue;
     var isToday=d.toDateString()===now.toDateString();
-    var dh=el("div","day gx"+(isToday?" t":""));
+    var isPastDay=d<todayStart;
+    var dh=el("div","day gx"+(isToday?" t":"")+(isPastDay?" past":""));
     dh.appendChild(el("span","",DAYS[d.getDay()]+" // "+ddmm(d)));
     if(isToday)dh.appendChild(el("span","badge","DZIŚ"));
     a.appendChild(dh);
 
-    if(!de.length){a.appendChild(el("div","none gx","Brak zajęć"));continue}
+    if(!de.length){a.appendChild(el("div","none gx"+(isPastDay?" past":""),"Brak zajęć"));continue}
     de.forEach(function(e,idx){
       if(idx>0){
         var gapMin=Math.round((e.s-de[idx-1].e)/60000);
         if(gapMin>=30){
-          var g=el("div","gap gx");
+          var isPastGap=now>e.s;
+          var g=el("div","gap gx"+(isPastGap?" past":""));
           var lbl=el("span","lbl");
           lbl.appendChild(el("b","","//"));
           lbl.appendChild(document.createTextNode("OKIENKO "+hm(de[idx-1].e)+"–"+hm(e.s)));
@@ -423,7 +429,7 @@ function render(reset){
       }
 
       var isLive=now>=e.s&&now<=e.e;
-      var isPast=now>e.e&&isToday;
+      var isPast=now>e.e;
       var cols=typeColors(e.grp);
       var c=el("div","ev"+(isLive?" live":"")+(isPast?" past":""));
       c.style.setProperty("--c1",cols[0]);
