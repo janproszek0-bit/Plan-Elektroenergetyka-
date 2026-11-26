@@ -62,15 +62,28 @@ function parse(txt){
   out.sort(function(a,b){return a.s-b.s});return out;
 }
 function pre(g){return g.replace(/\d+$/,"")}
-function ckey(e){return e.sub+"|"+pre(e.grp)}
+function gl(e){return e.grp?e.grp.split(/\s*,\s*/):[]}
+function fromJson(j){
+  var out=[],codes=j.codes||[];
+  (j.data||[]).forEach(function(it){
+    var fac=(it.faculty||"").split(/\s*,\s*/);
+    if(codes.length&&!codes.some(function(c){return fac.indexOf(c)>=0}))return;
+    (it.terminy||[]).forEach(function(t){
+      var cl=function(x){return (x||"").replace(/_+$/,"")};
+      var r=cl(t.room);if(/^\d\d-\d\d_/.test(r))r="";
+      out.push({s:new Date(t.start),e:new Date(t.end),sub:t.eventType||it.eventType||it.title,grp:t.group||"",who:cl(t.instructor||it.instructor),room:r});
+    });
+  });
+  out.sort(function(a,b){return a.s-b.s});return out;
+}
 function buildChoices(){
-  var o={};events.forEach(function(e){if(!e.grp)return;var k=ckey(e);(o[k]=o[k]||{sub:e.sub,pre:pre(e.grp),g:{}}).g[e.grp]=1});
+  var o={};events.forEach(function(e){gl(e).forEach(function(g){var k=e.sub+"|"+pre(g);(o[k]=o[k]||{sub:e.sub,pre:pre(g),g:{}}).g[g]=1})});
   choices={};Object.keys(o).forEach(function(k){var n=Object.keys(o[k].g);if(n.length>1)choices[k]={sub:o[k].sub,pre:o[k].pre,g:n.sort(function(a,b){return a.localeCompare(b,"pl",{numeric:true})})}});
 }
 function load(){try{sel=JSON.parse(localStorage.getItem("plan:"+calName)||"{}")}catch(x){sel={}}}
 function save(){try{localStorage.setItem("plan:"+calName,JSON.stringify(sel))}catch(x){}}
 function done(){return Object.keys(choices).every(function(k){return sel[k]!==undefined})}
-function vis(e){var k=ckey(e);return !choices[k]||sel[k]===e.grp}
+function vis(e){var L=gl(e);if(!L.length)return true;return L.some(function(g){var k=e.sub+"|"+pre(g);return !choices[k]||sel[k]===g})}
 function col(s){var h=0;for(var i=0;i<s.length;i++)h=(h*31+s.charCodeAt(i))>>>0;return "hsl("+(h%360)+",55%,48%)"}
 function mon(d){var x=new Date(d.getFullYear(),d.getMonth(),d.getDate());x.setDate(x.getDate()-((x.getDay()+6)%7));return x}
 function hm(d){return ("0"+d.getHours()).slice(-2)+":"+("0"+d.getMinutes()).slice(-2)}
@@ -119,8 +132,8 @@ function render(reset){
       b.appendChild(mt);c.appendChild(tm);c.appendChild(b);a.appendChild(c)});
   }
 }
-function init(txt){
-  events=parse(txt);if(!events.length)throw 0;
+function init(evs,name){
+  events=evs;calName=name;if(!events.length)throw 0;
   minD=events[0].s;maxD=events[events.length-1].s;
   $("ttl").textContent="Plan zajęć · "+calName.replace(/^.*faculty:\s*/,"");
   buildChoices();load();render(false);
@@ -131,8 +144,10 @@ $("tdy").onclick=function(){render(true)};
 $("chg").onclick=setup;
 var sx=0;document.addEventListener("touchstart",function(e){sx=e.touches[0].clientX});
 document.addEventListener("touchend",function(e){var dx=e.changedTouches[0].clientX-sx;if(Math.abs(dx)>80&&!$("wk").hidden){off+=dx<0?1:-1;render(false)}});
-(window.EMBEDDED_ICS?Promise.resolve(window.EMBEDDED_ICS):fetch("plan.ics?"+Date.now()).then(function(r){if(!r.ok)throw 0;return r.text()}))
- .then(init).catch(function(){$("app").innerHTML='<div class="err">Nie udało się wczytać planu. Spróbuj ponownie później.</div>'});
+var NF=function(r){if(!r.ok)throw 0;return r};
+fetch("plan.json?"+Date.now()).then(NF).then(function(r){return r.json()}).then(function(j){init(fromJson(j),(j.codes||["plan"]).join("+"))})
+ .catch(function(){return fetch("plan.ics?"+Date.now()).then(NF).then(function(r){return r.text()}).then(function(t){var ev=parse(t);init(ev,calName)})})
+ .catch(function(){$("app").innerHTML='<div class="err">Nie udało się wczytać planu. Spróbuj ponownie później.</div>'});
 </script>
 </body>
 </html>
