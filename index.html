@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="theme-color" content="#06070a">
@@ -12,6 +13,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;600&display=swap" rel="stylesheet">
 <style>
+[hidden]{display:none!important}
 :root[data-theme="dark"]{
   --bg:#06070a;
   --surf:#0e1017;
@@ -71,7 +73,6 @@ body{
 }
 .mono{font-family:"JetBrains Mono",ui-monospace,monospace;font-variant-numeric:tabular-nums}
 
-/* Header */
 header{
   position:sticky;top:0;z-index:20;
   background:color-mix(in srgb,var(--bg) 78%,transparent);
@@ -132,7 +133,6 @@ main{max-width:700px;margin:0 auto;padding:16px 16px 64px;transition:max-width .
 @keyframes fadeUp{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
 .anim{animation:fadeUp .28s cubic-bezier(.2,.8,.2,1) both}
 
-/* Szybki pasek dni */
 .dbar{
   display:grid;grid-template-columns:repeat(5,1fr);gap:6px;
   margin-bottom:18px;
@@ -150,7 +150,6 @@ main{max-width:700px;margin:0 auto;padding:16px 16px 64px;transition:max-width .
 .dbar .dots i{width:4px;height:4px;border-radius:50%;background:var(--c-w)}
 .dbar .dots i.none-dot{background:var(--line-hi);width:8px;height:2px;border-radius:2px}
 
-/* Hero Dashboard Card */
 .hero{
   position:relative;overflow:hidden;
   background:linear-gradient(135deg, color-mix(in srgb,var(--hc,var(--acc)) 16%, var(--surf)), var(--surf) 75%);
@@ -174,7 +173,6 @@ main{max-width:700px;margin:0 auto;padding:16px 16px 64px;transition:max-width .
 .hero-prog{margin-top:12px;height:4px;border-radius:99px;background:var(--line);overflow:hidden}
 .hero-prog span{display:block;height:100%;border-radius:99px;background:linear-gradient(90deg,var(--live),var(--c-w));transition:width .5s linear}
 
-/* Pasek nadchodzących kolokwiów/notatek */
 .up-notes{
   display:flex;gap:8px;overflow-x:auto;padding-bottom:4px;margin-bottom:14px;
   scrollbar-width:none;
@@ -190,7 +188,6 @@ main{max-width:700px;margin:0 auto;padding:16px 16px 64px;transition:max-width .
 .un-chip b{color:var(--warn)}
 .un-chip span{color:var(--mut);font-size:11px}
 
-/* Day header */
 .day{
   display:flex;align-items:center;justify-content:space-between;
   margin:24px 0 10px;padding:0 2px;
@@ -212,7 +209,6 @@ main{max-width:700px;margin:0 auto;padding:16px 16px 64px;transition:max-width .
 }
 .none.past{opacity:.4}
 
-/* Okienko */
 .gap{
   display:flex;align-items:center;gap:12px;
   margin:8px 6px;font-size:12px;font-weight:500;color:var(--mut);
@@ -225,7 +221,6 @@ main{max-width:700px;margin:0 auto;padding:16px 16px 64px;transition:max-width .
 }
 .gap.past{opacity:.38}
 
-/* Event Card */
 .ev{
   position:relative;overflow:hidden;cursor:pointer;
   display:flex;gap:14px;align-items:stretch;
@@ -306,7 +301,6 @@ main{max-width:700px;margin:0 auto;padding:16px 16px 64px;transition:max-width .
 .prog{position:absolute;left:0;right:0;bottom:0;height:3px;background:var(--line)}
 .prog span{display:block;height:100%;background:linear-gradient(90deg,var(--live),var(--c-w));transition:width .5s linear}
 
-/* WIDOK SIATKI (GRID) */
 .grid-wrap{
   overflow-x:auto;border:1px solid var(--line);border-radius:18px;
   background:var(--surf);box-shadow:var(--shine);
@@ -365,13 +359,11 @@ main{max-width:700px;margin:0 auto;padding:16px 16px 64px;transition:max-width .
 .legend i{width:8px;height:8px;border-radius:50%;display:inline-block}
 .hint{text-align:center;font-size:11px;color:var(--mut);margin-top:10px;opacity:.75}
 
-/* Modale */
 .modal-bg{
   position:fixed;inset:0;z-index:50;
   background:rgba(0,0,0,.64);backdrop-filter:blur(10px);
   display:flex;align-items:center;justify-content:center;padding:16px;
 }
-.modal-bg[hidden]{display:none}
 .modal{
   width:100%;max-width:440px;max-height:85vh;display:flex;flex-direction:column;
   background:var(--surf);border:1px solid var(--line-hi);
@@ -399,7 +391,6 @@ main{max-width:700px;margin:0 auto;padding:16px 16px 64px;transition:max-width .
 .s-item b{display:block;font-size:13px}
 .s-item small{color:var(--mut);font-size:11px}
 
-/* Toast */
 .toast{
   position:fixed;bottom:24px;left:50%;transform:translateX(-50%) translateY(20px);
   z-index:60;padding:9px 16px;border-radius:999px;
@@ -448,7 +439,6 @@ main{max-width:700px;margin:0 auto;padding:16px 16px 64px;transition:max-width .
 </header>
 <main id="app"><div class="err">Ładowanie planu…</div></main>
 
-<!-- Modal notatki -->
 <div id="mbg" class="modal-bg" hidden>
   <div class="modal">
     <h3 id="mTitle">Notatka</h3>
@@ -468,7 +458,6 @@ main{max-width:700px;margin:0 auto;padding:16px 16px 64px;transition:max-width .
   </div>
 </div>
 
-<!-- Modal wyszukiwarki -->
 <div id="sbg" class="modal-bg" hidden>
   <div class="modal">
     <h3>Szukaj w planie</h3>
@@ -487,7 +476,6 @@ var DSHORT=["ND","PN","WT","ŚR","CZ","PT","SB"];
 var events=[],calName="plan",choices={},sel={},notes={},off=0,minD,maxD,editKey="";
 var viewMode=localStorage.getItem("plan:view")||"list";
 
-/* Motyw */
 (function(){
   var saved=localStorage.getItem("plan:theme")||"dark";
   document.documentElement.setAttribute("data-theme",saved);
@@ -586,7 +574,6 @@ function fmtDur(m){
 }
 function el(t,c,h){var x=document.createElement(t);if(c)x.className=c;if(h!==undefined)x.textContent=h;return x}
 
-/* Eksport .ics */
 function pad2(n){return ("0"+n).slice(-2)}
 function icsDt(d){return d.getFullYear()+pad2(d.getMonth()+1)+pad2(d.getDate())+"T"+pad2(d.getHours())+pad2(d.getMinutes())+"00"}
 $("ics").onclick=function(){
@@ -608,7 +595,6 @@ $("ics").onclick=function(){
   toast("Pobrano plik moj-plan.ics");
 };
 
-/* Przełącznik widoku */
 function syncViewBtn(){
   document.body.classList.toggle("grid-mode",viewMode==="grid");
   $("vbtn").classList.toggle("act",viewMode==="grid");
@@ -620,7 +606,6 @@ $("vbtn").onclick=function(){
   syncViewBtn();render(false);
 };
 
-/* Modal notatek */
 function openNote(e){
   editKey=noteKey(e);
   $("mTitle").textContent=e.sub;
@@ -644,7 +629,6 @@ document.querySelectorAll(".presets button").forEach(function(b){
   b.onclick=function(){$("mIn").value=b.getAttribute("data-p");$("mIn").focus()};
 });
 
-/* Wyszukiwarka */
 function jumpToEvent(e){
   var m0=mon(new Date()),targetM=mon(e.s);
   off=Math.round((targetM-m0)/6048e5);
@@ -686,7 +670,6 @@ $("sbg").onclick=function(ev){if(ev.target===$("sbg"))$("sbg").hidden=true};
 $("sIn").oninput=renderSearch;
 $("sIn").onkeydown=function(ev){if(ev.key==="Escape")$("sbg").hidden=true};
 
-/* Udostępnianie grup */
 $("shr").onclick=function(){
   try{
     var code=btoa(unescape(encodeURIComponent(JSON.stringify(sel))));
@@ -942,14 +925,13 @@ function render(reset){
 }
 
 function init(evs,name){
-  events=evs;calName=name;if(!events.length)throw 0;
+  events=evs;calName=name;if(!events.length)throw new Error("Brak zajęć w plan.json dla wybranych kierunków.");
   minD=events[0].s;maxD=events[events.length-1].s;
   $("ttl").textContent="Plan · "+calName.replace(/^.*faculty:\s*/,"");
   buildChoices();load();render(false);
   setInterval(function(){if(!$("wk").hidden)render(false)},30000);
 }
 
-/* Nawigacja + skróty klawiszowe */
 $("pv").onclick=function(){off--;render(false)};
 $("nx").onclick=function(){off++;render(false)};
 $("tdy").onclick=function(){render(true)};
@@ -967,21 +949,25 @@ document.addEventListener("keydown",function(e){
 var sx=0;document.addEventListener("touchstart",function(e){sx=e.touches[0].clientX});
 document.addEventListener("touchend",function(e){var dx=e.changedTouches[0].clientX-sx;if(Math.abs(dx)>80&&!$("wk").hidden&&$("mbg").hidden&&$("sbg").hidden&&viewMode==="list"){off+=dx<0?1:-1;render(false)}});
 
-var NF=function(r){if(!r.ok)throw 0;return r};
-fetch("plan.json?"+Date.now()).then(NF).then(function(r){return r.json()}).then(function(j){
+var NF=function(r){if(!r.ok)throw new Error("HTTP "+r.status);return r};
+fetch("plan.json?"+Date.now()).then(NF).then(function(r){return r.json()})
+.then(function(j){
   try{localStorage.setItem("plan:cache",JSON.stringify(j))}catch(x){}
-  init(fromJson(j,false),(j.codes||["plan"]).join("+"));
+  return {j:j,off:false};
 })
 .catch(function(){
   var cached=localStorage.getItem("plan:cache");
-  if(cached){
-    var j=JSON.parse(cached);
-    init(fromJson(j,true),(j.codes||["plan"]).join("+"));
-    return;
-  }
-  return fetch("plan.ics?"+Date.now()).then(NF).then(function(r){return r.text()}).then(function(t){var ev=parse(t);init(ev,calName)});
+  if(cached)return {j:JSON.parse(cached),off:true};
+  return fetch("plan.ics?"+Date.now()).then(NF).then(function(r){return r.text()}).then(function(t){return {ics:t}});
 })
-.catch(function(){$("app").innerHTML='<div class="err">Nie udało się wczytać planu. Spróbuj ponownie później.</div>'});
+.then(function(res){
+  if(res.ics){var ev=parse(res.ics);init(ev,calName)}
+  else{init(fromJson(res.j,res.off),(res.j.codes||["plan"]).join("+"))}
+})
+.catch(function(err){
+  console.error("Plan error:",err);
+  $("app").innerHTML='<div class="err">Nie udało się wczytać planu.<br><small class="mono" style="opacity:.7">'+(err&&err.message?err.message:String(err))+'</small></div>';
+});
 </script>
 </body>
 </html>
