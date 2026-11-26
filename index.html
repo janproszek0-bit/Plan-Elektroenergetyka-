@@ -1,51 +1,236 @@
 <!DOCTYPE html>
-<html lang="pl">
+<html lang="pl" data-theme="dark">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Plan zajęć – Elektroenergetyka PK</title>
+<title>PLAN // EE PK</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
-:root{--bg:#f3f5f8;--card:#fff;--ink:#14213d;--mut:#5c6b84;--line:#dbe1ea;--acc:#1d4ed8;--today:#e8efff}
-@media(prefers-color-scheme:dark){:root{--bg:#0e1522;--card:#17202f;--ink:#e6ebf5;--mut:#93a1ba;--line:#26324a;--acc:#7aa2ff;--today:#1a2744}}
+:root[data-theme="dark"]{
+  --bg:#090d16;
+  --grid:rgba(148,163,184,.06);
+  --surf:#0f1623;
+  --surf-hi:#141e30;
+  --ink:#e2e8f0;
+  --mut:#7c8ca3;
+  --line:#1e293b;
+  --line-hi:#334155;
+  --acc:#38bdf8;
+  --acc-dim:rgba(56,189,248,.12);
+  --live:#22c55e;
+  --live-bg:rgba(34,197,94,.08);
+  --c-w:#38bdf8;
+  --c-l:#f59e0b;
+  --c-c:#10b981;
+  --c-p:#a78bfa;
+  --c-o:#64748b;
+}
+:root[data-theme="light"]{
+  --bg:#f4f7fb;
+  --grid:rgba(30,64,175,.055);
+  --surf:#ffffff;
+  --surf-hi:#f8fafc;
+  --ink:#0f172a;
+  --mut:#64748b;
+  --line:#cbd5e1;
+  --line-hi:#94a3b8;
+  --acc:#0284c7;
+  --acc-dim:rgba(2,132,199,.1);
+  --live:#16a34a;
+  --live-bg:rgba(22,163,74,.07);
+  --c-w:#0284c7;
+  --c-l:#d97706;
+  --c-c:#059669;
+  --c-p:#7c3aed;
+  --c-o:#475569;
+}
 *{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.4 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;padding:env(safe-area-inset-top) 0 env(safe-area-inset-bottom)}
-header{position:sticky;top:0;background:var(--bg);border-bottom:1px solid var(--line);padding:10px 14px;z-index:5}
-.row{display:flex;align-items:center;gap:8px;max-width:640px;margin:0 auto}
-h1{font-size:15px;margin:0;flex:1;font-weight:650}
-button{font:inherit;border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:8px;padding:8px 12px;cursor:pointer}
-button.p{background:var(--acc);border-color:var(--acc);color:#fff}
-button:disabled{opacity:.4}
-.wk{justify-content:space-between;margin-top:8px}
-.wk b{font-size:17px}
-main{max-width:640px;margin:0 auto;padding:12px 14px 40px}
-.day{margin:14px 0 6px;font-weight:650;color:var(--mut);font-size:14px}
-.day.t{color:var(--acc)}
-.none{color:var(--mut);font-size:14px;padding:2px 0 6px}
-.ev{display:flex;gap:10px;background:var(--card);border:1px solid var(--line);border-left:5px solid var(--c);border-radius:10px;padding:10px 12px;margin:6px 0}
-.ev .tm{min-width:48px;font-variant-numeric:tabular-nums;font-size:14px;color:var(--mut)}
-.ev .tm b{display:block;color:var(--ink);font-size:16px}
-.ev .nm{font-weight:650}
-.ev .mt{font-size:14px;color:var(--mut)}
-.tag{display:inline-block;border:1px solid var(--line);border-radius:6px;padding:0 6px;font-size:12px;margin-right:6px}
+body{
+  margin:0;
+  background-color:var(--bg);
+  background-image:
+    linear-gradient(var(--grid) 1px,transparent 1px),
+    linear-gradient(90deg,var(--grid) 1px,transparent 1px);
+  background-size:24px 24px;
+  color:var(--ink);
+  font:15px/1.45 "Inter",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  padding:env(safe-area-inset-top) 0 env(safe-area-inset-bottom);
+  -webkit-font-smoothing:antialiased;
+}
+.mono{font-family:"JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+
+header{
+  position:sticky;top:0;z-index:10;
+  background:color-mix(in srgb,var(--bg) 88%,transparent);
+  backdrop-filter:blur(10px);
+  -webkit-backdrop-filter:blur(10px);
+  border-bottom:1px solid var(--line);
+  padding:10px 14px;
+}
+.row{display:flex;align-items:center;gap:8px;max-width:700px;margin:0 auto}
+.brand{display:flex;align-items:center;gap:8px;flex:1;min-width:0}
+h1{
+  font-size:14px;margin:0;font-weight:700;letter-spacing:.04em;
+  text-transform:uppercase;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
+}
+.sync{
+  display:inline-flex;align-items:center;gap:5px;
+  font-size:11px;color:var(--mut);
+  border:1px solid var(--line);background:var(--surf);
+  padding:2px 7px;border-radius:3px;white-space:nowrap;
+}
+.sync .dot{width:6px;height:6px;border-radius:50%;background:var(--live);box-shadow:0 0 6px var(--live)}
+
+button{
+  font:inherit;font-size:13px;font-weight:500;
+  border:1px solid var(--line);background:var(--surf);color:var(--ink);
+  border-radius:4px;padding:6px 10px;cursor:pointer;
+  transition:border-color .15s,background .15s,color .15s;
+}
+button:hover:not(:disabled){border-color:var(--line-hi);background:var(--surf-hi)}
+button.p{background:var(--acc);border-color:var(--acc);color:#090d16;font-weight:600}
+:root[data-theme="light"] button.p{color:#fff}
+button:disabled{opacity:.35;cursor:default}
+button.ico{padding:6px 9px;line-height:1}
+
+.wk{justify-content:space-between;margin-top:8px;padding-top:8px;border-top:1px dashed var(--line)}
+.wk b{font-size:14px;letter-spacing:.03em}
+.wk .nav{display:flex;gap:6px;align-items:center}
+
+main{max-width:700px;margin:0 auto;padding:12px 14px 48px}
+
+.day{
+  display:flex;align-items:center;justify-content:space-between;
+  margin:20px 0 8px;padding-bottom:4px;
+  border-bottom:1px solid var(--line);
+  font-size:12px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;
+  color:var(--mut);
+}
+.day.t{color:var(--acc);border-bottom-color:var(--acc)}
+.day .badge{
+  font-size:10px;padding:1px 6px;border-radius:3px;
+  background:var(--acc-dim);color:var(--acc);border:1px solid color-mix(in srgb,var(--acc) 35%,transparent);
+}
+
+.none{color:var(--mut);font-size:13px;padding:4px 0 8px;opacity:.75}
+
+.ev{
+  position:relative;overflow:hidden;
+  display:flex;gap:12px;
+  background:var(--surf);
+  border:1px solid var(--line);
+  border-left:3px solid var(--c,var(--c-o));
+  border-radius:4px;
+  padding:10px 12px;margin:7px 0;
+  transition:border-color .15s,transform .15s;
+}
+.ev.live{
+  border-color:color-mix(in srgb,var(--live) 55%,var(--line));
+  border-left-color:var(--live);
+  background:linear-gradient(90deg,var(--live-bg),var(--surf) 60%);
+}
+.ev.past{opacity:.52}
+
+.ev .tm{
+  min-width:52px;padding-right:10px;border-right:1px solid var(--line);
+  font-variant-numeric:tabular-nums;font-size:12px;color:var(--mut);
+  display:flex;flex-direction:column;justify-content:center;
+}
+.ev .tm b{color:var(--ink);font-size:14px;font-weight:700;line-height:1.2}
+
+.ev .body{flex:1;min-width:0}
+.ev .top{display:flex;align-items:flex-start;justify-content:space-between;gap:8px}
+.ev .nm{font-weight:600;font-size:15px;line-height:1.3}
+
+.pill{
+  display:inline-flex;align-items:center;gap:5px;flex-shrink:0;
+  font-size:10px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;
+  padding:2px 6px;border-radius:3px;white-space:nowrap;
+}
+.pill.live{background:var(--live-bg);color:var(--live);border:1px solid color-mix(in srgb,var(--live) 45%,transparent)}
+.pill.live i{width:6px;height:6px;border-radius:50%;background:var(--live);animation:pulse 1.5s infinite}
+.pill.next{background:var(--acc-dim);color:var(--acc);border:1px solid color-mix(in srgb,var(--acc) 40%,transparent)}
+
+@keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.35;transform:scale(.75)}}
+
+.ev .mt{
+  display:flex;flex-wrap:wrap;align-items:center;gap:6px;
+  margin-top:5px;font-size:12px;color:var(--mut);
+}
+.tag{
+  display:inline-block;padding:1px 6px;border-radius:3px;font-size:11px;font-weight:600;
+  color:var(--c,var(--c-o));
+  background:color-mix(in srgb,var(--c,var(--c-o)) 12%,transparent);
+  border:1px solid color-mix(in srgb,var(--c,var(--c-o)) 35%,transparent);
+}
+.room{
+  padding:1px 6px;border-radius:3px;font-size:11px;
+  background:var(--surf-hi);border:1px solid var(--line);color:var(--ink);
+}
+
+.prog{
+  position:absolute;left:0;right:0;bottom:0;height:2px;background:var(--line);
+}
+.prog span{display:block;height:100%;background:var(--live);transition:width .5s linear}
+
+.legend{
+  display:flex;flex-wrap:wrap;gap:12px;margin-top:26px;padding-top:12px;
+  border-top:1px dashed var(--line);font-size:11px;color:var(--mut);
+}
+.legend span{display:inline-flex;align-items:center;gap:5px}
+.legend i{width:8px;height:8px;border-radius:2px;display:inline-block}
+
 .set{padding:6px 0}
-.set h2{font-size:20px;margin:6px 0}
-.set p{color:var(--mut);margin:4px 0 14px}
-.q{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 12px;margin:8px 0}
-.q .nm{font-weight:650;margin-bottom:8px}
+.set h2{font-size:18px;margin:6px 0;letter-spacing:.02em}
+.set p{color:var(--mut);margin:4px 0 14px;font-size:14px}
+.q{background:var(--surf);border:1px solid var(--line);border-radius:4px;padding:10px 12px;margin:8px 0}
+.q .nm{font-weight:600;margin-bottom:8px;font-size:14px}
 .chips{display:flex;flex-wrap:wrap;gap:6px}
-.chips button{padding:6px 12px}
-.chips button.on{background:var(--acc);border-color:var(--acc);color:#fff}
-.err{padding:20px;color:var(--mut)}
+.chips button{padding:5px 11px;font-size:12px}
+.chips button.on{background:var(--acc);border-color:var(--acc);color:#090d16;font-weight:600}
+:root[data-theme="light"] .chips button.on{color:#fff}
+.err{padding:24px 0;color:var(--mut);font-size:14px}
 </style>
 </head>
 <body>
-<header><div class="row"><h1 id="ttl">Plan zajęć</h1><button id="chg" hidden>Moje grupy</button></div>
-<div class="row wk" id="wk" hidden><button id="pv" aria-label="Poprzedni tydzień">‹</button><b id="wl"></b><button id="tdy">Dziś</button><button id="nx" aria-label="Następny tydzień">›</button></div></header>
-<main id="app"><div class="err">Ładowanie planu…</div></main>
+<header>
+  <div class="row">
+    <div class="brand">
+      <h1 id="ttl" class="mono">PLAN // EE</h1>
+      <span id="sync" class="sync mono" hidden><span class="dot"></span><span id="syncTxt"></span></span>
+    </div>
+    <button id="thm" class="ico mono" title="Zmień motyw">☀</button>
+    <button id="chg" class="mono" hidden>GRUPY</button>
+  </div>
+  <div class="row wk" id="wk" hidden>
+    <button id="pv" class="mono" aria-label="Poprzedni tydzień">‹</button>
+    <b id="wl" class="mono"></b>
+    <div class="nav">
+      <button id="tdy" class="mono">DZIŚ</button>
+      <button id="nx" class="mono" aria-label="Następny tydzień">›</button>
+    </div>
+  </div>
+</header>
+<main id="app"><div class="err mono">ŁADOWANIE DANYCH…</div></main>
 <script>
 var $=function(i){return document.getElementById(i)};
-var DAYS=["niedz.","pon.","wt.","śr.","czw.","pt.","sob."];
+var DAYS=["ND","PN","WT","ŚR","CZ","PT","SB"];
 var events=[],calName="plan",choices={},sel={},off=0,minD,maxD;
+
+/* Motyw Dark / Light */
+(function(){
+  var saved=localStorage.getItem("plan:theme")||"dark";
+  document.documentElement.setAttribute("data-theme",saved);
+  $("thm").textContent=saved==="dark"?"☀":"☾";
+  $("thm").onclick=function(){
+    var cur=document.documentElement.getAttribute("data-theme")==="dark"?"light":"dark";
+    document.documentElement.setAttribute("data-theme",cur);
+    localStorage.setItem("plan:theme",cur);
+    $("thm").textContent=cur==="dark"?"☀":"☾";
+  };
+})();
 
 function unesc(s){return s.replace(/\\n/gi,"\n").replace(/\\([,;])/g,"$1").replace(/\\\\/g,"\\")}
 function pd(s){return new Date(+s.slice(0,4),+s.slice(4,6)-1,+s.slice(6,8),+s.slice(9,11),+s.slice(11,13))}
@@ -64,6 +249,13 @@ function parse(txt){
 function pre(g){return g.replace(/\d+$/,"")}
 function gl(e){return e.grp?e.grp.split(/\s*,\s*/):[]}
 function fromJson(j){
+  if(j.updatedAt){
+    var u=new Date(j.updatedAt);
+    if(!isNaN(u)){
+      $("syncTxt").textContent="SYNC "+hm(u);
+      $("sync").hidden=false;
+    }
+  }
   var out=[],codes=j.codes||[];
   (j.data||[]).forEach(function(it){
     var fac=(it.faculty||"").split(/\s*,\s*/);
@@ -76,6 +268,14 @@ function fromJson(j){
   });
   out.sort(function(a,b){return a.s-b.s});return out;
 }
+function typeColor(grp){
+  var g=(grp||"").trim().toUpperCase();
+  if(/^W/.test(g))return "var(--c-w)";
+  if(/^L/.test(g))return "var(--c-l)";
+  if(/^[CĆ]/.test(g))return "var(--c-c)";
+  if(/^[PS]/.test(g))return "var(--c-p)";
+  return "var(--c-o)";
+}
 function buildChoices(){
   var o={};events.forEach(function(e){gl(e).forEach(function(g){var k=e.sub+"|"+pre(g);(o[k]=o[k]||{sub:e.sub,pre:pre(g),g:{}}).g[g]=1})});
   choices={};Object.keys(o).forEach(function(k){var n=Object.keys(o[k].g);if(n.length>1)choices[k]={sub:o[k].sub,pre:o[k].pre,g:n.sort(function(a,b){return a.localeCompare(b,"pl",{numeric:true})})}});
@@ -84,25 +284,33 @@ function load(){try{sel=JSON.parse(localStorage.getItem("plan:"+calName)||"{}")}
 function save(){try{localStorage.setItem("plan:"+calName,JSON.stringify(sel))}catch(x){}}
 function done(){return Object.keys(choices).every(function(k){return sel[k]!==undefined})}
 function vis(e){var L=gl(e);if(!L.length)return true;return L.some(function(g){var k=e.sub+"|"+pre(g);return !choices[k]||sel[k]===g})}
-function col(s){var h=0;for(var i=0;i<s.length;i++)h=(h*31+s.charCodeAt(i))>>>0;return "hsl("+(h%360)+",55%,48%)"}
 function mon(d){var x=new Date(d.getFullYear(),d.getMonth(),d.getDate());x.setDate(x.getDate()-((x.getDay()+6)%7));return x}
 function hm(d){return ("0"+d.getHours()).slice(-2)+":"+("0"+d.getMinutes()).slice(-2)}
+function ddmm(d){return ("0"+d.getDate()).slice(-2)+"."+("0"+(d.getMonth()+1)).slice(-2)}
+function fmtCountdown(ms){
+  var m=Math.ceil(ms/60000);
+  if(m<60)return "ZA "+m+" MIN";
+  var h=Math.floor(m/60),rm=m%60;
+  return "ZA "+h+"H"+(rm?" "+rm+"M":"");
+}
 function el(t,c,h){var x=document.createElement(t);if(c)x.className=c;if(h!==undefined)x.textContent=h;return x}
 
 function setup(){
   $("wk").hidden=true;$("chg").hidden=true;var a=$("app");a.innerHTML="";
-  var w=el("div","set");w.appendChild(el("h2","","Wybierz swoje grupy"));
-  w.appendChild(el("p","","Zaznacz grupę przy każdym przedmiocie. Wybór zapamiętamy w tej przeglądarce."));
-  var go=el("button","p","Pokaż plan");go.disabled=!done();
+  var w=el("div","set");w.appendChild(el("h2","mono","KONFIGURACJA GRUP"));
+  w.appendChild(el("p","","Wybierz swoją grupę dla każdego przedmiotu. Ustawienia zapisują się lokalnie."));
+  var go=el("button","p mono","ZAPISZ I POKAŻ PLAN");go.disabled=!done();
   Object.keys(choices).sort(function(a,b){return choices[a].sub.localeCompare(choices[b].sub,"pl")}).forEach(function(k){
-    var c=choices[k],q=el("div","q"),ch=el("div","chips");q.appendChild(el("div","nm",c.sub+(c.pre?" ("+c.pre+")":"")));
+    var c=choices[k],q=el("div","q"),ch=el("div","chips");
+    q.appendChild(el("div","nm",c.sub+(c.pre?" ["+c.pre+"]":"")));
     c.g.concat([""]).forEach(function(g){
-      var b=el("button",sel[k]===g?"on":"",g||"nie dotyczy");
-      b.onclick=function(){sel[k]=g;save();[].forEach.call(ch.children,function(x){x.className=""});b.className="on";go.disabled=!done()};
+      var b=el("button","mono"+(sel[k]===g?" on":""),g||"brak");
+      b.onclick=function(){sel[k]=g;save();[].forEach.call(ch.children,function(x){x.className="mono"});b.className="mono on";go.disabled=!done()};
       ch.appendChild(b)});
     q.appendChild(ch);w.appendChild(q)});
   go.onclick=function(){render(true)};w.appendChild(go);a.appendChild(w);
 }
+
 function render(reset){
   if(!done()){setup();return}
   if(reset)off=0;
@@ -112,42 +320,90 @@ function render(reset){
   var end=new Date(wk);end.setDate(end.getDate()+7);
   $("wk").hidden=false;$("chg").hidden=false;
   var fr=new Date(wk),to=new Date(wk);to.setDate(to.getDate()+4);
-  $("wl").textContent=fr.getDate()+"."+(fr.getMonth()+1)+" – "+to.getDate()+"."+(to.getMonth()+1);
+  $("wl").textContent=ddmm(fr)+" — "+ddmm(to);
   $("pv").disabled=wk<=first;$("nx").disabled=wk>=last;
   var a=$("app");a.innerHTML="";
   var mine=events.filter(function(e){return vis(e)&&e.s>=wk&&e.s<end});
+
+  /* Znajdź najbliższe nadchodzące zajęcia dzisiaj */
+  var nextEv=mine.find(function(e){return e.s>now&&e.s.toDateString()===now.toDateString()});
+
   for(var i=0;i<7;i++){
     var d=new Date(wk);d.setDate(d.getDate()+i);
     var de=mine.filter(function(e){return e.s.getDate()===d.getDate()&&e.s.getMonth()===d.getMonth()});
     if(i>4&&!de.length)continue;
-    var t=d.toDateString()===now.toDateString();
-    a.appendChild(el("div","day"+(t?" t":""),DAYS[d.getDay()]+" "+d.getDate()+"."+(d.getMonth()+1)+(t?" · dziś":"")));
-    if(!de.length){a.appendChild(el("div","none","brak zajęć"));continue}
+    var isToday=d.toDateString()===now.toDateString();
+    var dh=el("div","day mono"+(isToday?" t":""));
+    dh.appendChild(el("span","",DAYS[d.getDay()]+" // "+ddmm(d)));
+    if(isToday)dh.appendChild(el("span","badge","DZIŚ"));
+    a.appendChild(dh);
+
+    if(!de.length){a.appendChild(el("div","none mono","— brak zajęć"));continue}
     de.forEach(function(e){
-      var c=el("div","ev");c.style.setProperty("--c",col(e.sub));
-      var tm=el("div","tm");tm.appendChild(el("b","",hm(e.s)));tm.appendChild(document.createTextNode(hm(e.e)));
-      var b=el("div");b.appendChild(el("div","nm",e.sub));
-      var mt=el("div","mt");if(e.grp)mt.appendChild(el("span","tag",e.grp));
-      mt.appendChild(document.createTextNode([e.room&&"s. "+e.room,e.who].filter(Boolean).join(" · ")));
-      b.appendChild(mt);c.appendChild(tm);c.appendChild(b);a.appendChild(c)});
+      var isLive=now>=e.s&&now<=e.e;
+      var isPast=now>e.e&&isToday;
+      var c=el("div","ev"+(isLive?" live":"")+(isPast?" past":""));
+      c.style.setProperty("--c",typeColor(e.grp));
+
+      var tm=el("div","tm mono");
+      tm.appendChild(el("b","",hm(e.s)));
+      tm.appendChild(document.createTextNode(hm(e.e)));
+
+      var b=el("div","body");
+      var top=el("div","top");
+      top.appendChild(el("div","nm",e.sub));
+      if(isLive){
+        var p=el("span","pill live mono");p.appendChild(document.createElement("i"));p.appendChild(document.createTextNode("LIVE"));
+        top.appendChild(p);
+      }else if(e===nextEv){
+        top.appendChild(el("span","pill next mono",fmtCountdown(e.s-now)));
+      }
+      b.appendChild(top);
+
+      var mt=el("div","mt");
+      if(e.grp)mt.appendChild(el("span","tag mono",e.grp));
+      if(e.room)mt.appendChild(el("span","room mono","S. "+e.room));
+      if(e.who)mt.appendChild(el("span","",e.who));
+      b.appendChild(mt);
+
+      c.appendChild(tm);c.appendChild(b);
+
+      if(isLive){
+        var pct=Math.max(0,Math.min(100,((now-e.s)/(e.e-e.s))*100));
+        var pr=el("div","prog"),bar=document.createElement("span");
+        bar.style.width=pct.toFixed(1)+"%";pr.appendChild(bar);c.appendChild(pr);
+      }
+      a.appendChild(c);
+    });
   }
+
+  var lg=el("div","legend mono");
+  [["Wykład","var(--c-w)"],["Lab","var(--c-l)"],["Ćwiczenia","var(--c-c)"],["Projekt/Sem","var(--c-p)"]].forEach(function(x){
+    var s=el("span",""),dot=document.createElement("i");dot.style.background=x[1];
+    s.appendChild(dot);s.appendChild(document.createTextNode(x[0]));lg.appendChild(s);
+  });
+  a.appendChild(lg);
 }
+
 function init(evs,name){
   events=evs;calName=name;if(!events.length)throw 0;
   minD=events[0].s;maxD=events[events.length-1].s;
-  $("ttl").textContent="Plan zajęć · "+calName.replace(/^.*faculty:\s*/,"");
+  $("ttl").textContent="PLAN // "+calName.replace(/^.*faculty:\s*/,"");
   buildChoices();load();render(false);
+  setInterval(function(){if(!$("wk").hidden)render(false)},30000);
 }
+
 $("pv").onclick=function(){off--;render(false)};
 $("nx").onclick=function(){off++;render(false)};
 $("tdy").onclick=function(){render(true)};
 $("chg").onclick=setup;
 var sx=0;document.addEventListener("touchstart",function(e){sx=e.touches[0].clientX});
 document.addEventListener("touchend",function(e){var dx=e.changedTouches[0].clientX-sx;if(Math.abs(dx)>80&&!$("wk").hidden){off+=dx<0?1:-1;render(false)}});
+
 var NF=function(r){if(!r.ok)throw 0;return r};
 fetch("plan.json?"+Date.now()).then(NF).then(function(r){return r.json()}).then(function(j){init(fromJson(j),(j.codes||["plan"]).join("+"))})
  .catch(function(){return fetch("plan.ics?"+Date.now()).then(NF).then(function(r){return r.text()}).then(function(t){var ev=parse(t);init(ev,calName)})})
- .catch(function(){$("app").innerHTML='<div class="err">Nie udało się wczytać planu. Spróbuj ponownie później.</div>'});
+ .catch(function(){$("app").innerHTML='<div class="err mono">BŁĄD // NIE UDAŁO SIĘ WCZYTAĆ PLANU.</div>'});
 </script>
 </body>
 </html>
