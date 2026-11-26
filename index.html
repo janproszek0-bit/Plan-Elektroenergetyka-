@@ -10,40 +10,46 @@
 <style>
 :root[data-theme="dark"]{
   --bg:#0a0812;
-  --glow1:rgba(250,30,78,.24);
-  --glow2:rgba(120,0,255,.20);
+  --glow1:rgba(250,30,78,.18);
+  --glow2:rgba(0,229,255,.12);
   --card:#13101f;
   --card-hi:#1b162b;
   --ink:#f4f4f8;
   --mut:#8c87a6;
   --line:#28213d;
+  --gap-bg:rgba(148,163,184,.07);
+  --gap-line:#3b4259;
+  --gap-ink:#cbd5e1;
   --gx:#fa1e4e;
   --gx2:#ff4d79;
   --live:#00ff88;
   --c-w:#00e5ff; --c-w2:#0066ff;
-  --c-l:#ff9500; --c-l2:#ff2a00;
+  --c-l:#ff9500; --c-l2:#ff4500;
   --c-c:#00ff88; --c-c2:#00b894;
-  --c-lek:#fa1e4e; --c-lek2:#b5179e;
-  --c-p:#b517ff; --c-p2:#6c00ff;
-  --c-o:#8c87a6; --c-o2:#534e6b;
+  --c-lek:#c084fc; --c-lek2:#7c3aed;
+  --c-p:#fde047; --c-p2:#eab308;
+  --c-o:#94a3b8; --c-o2:#64748b;
 }
 :root[data-theme="light"]{
   --bg:#f2f0f7;
-  --glow1:rgba(250,30,78,.14);
-  --glow2:rgba(120,0,255,.10);
+  --glow1:rgba(250,30,78,.10);
+  --glow2:rgba(2,132,199,.08);
   --card:#ffffff;
   --card-hi:#f8f6fc;
   --ink:#120e1f;
   --mut:#645d7a;
   --line:#d8d2e8;
+  --gap-bg:rgba(100,116,139,.08);
+  --gap-line:#94a3b8;
+  --gap-ink:#334155;
   --gx:#e11d48;
   --gx2:#f43f5e;
   --live:#059669;
   --c-w:#0284c7; --c-w2:#2563eb;
   --c-l:#ea580c; --c-l2:#dc2626;
   --c-c:#059669; --c-c2:#0d9488;
-  --c-lek:#e11d48; --c-lek2:#9333ea;
-  --c-p:#7c3aed; --c-p2:#4f46e5;
+  --c-lek:#9333ea; --c-lek2:#6d28d9;
+  --c-p:#ca8a04; --c-p2:#a16207;
   --c-o:#64748b; --c-o2:#475569;
 }
 *{box-sizing:border-box}
@@ -64,11 +70,11 @@ body{
 
 header{
   position:sticky;top:0;z-index:20;
-  background:color-mix(in srgb,var(--bg) 82%,transparent);
+  background:color-mix(in srgb,var(--bg) 84%,transparent);
   backdrop-filter:blur(14px);
   -webkit-backdrop-filter:blur(14px);
   border-bottom:2px solid var(--gx);
-  box-shadow:0 4px 24px -6px color-mix(in srgb,var(--gx) 45%,transparent);
+  box-shadow:0 4px 24px -6px color-mix(in srgb,var(--gx) 40%,transparent);
   padding:11px 16px;
 }
 .row{display:flex;align-items:center;gap:10px;max-width:700px;margin:0 auto}
@@ -76,7 +82,7 @@ header{
 h1{
   font-size:17px;margin:0;font-weight:700;text-transform:uppercase;
   white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
-  color:var(--ink);text-shadow:0 0 14px color-mix(in srgb,var(--gx) 40%,transparent);
+  color:var(--ink);
 }
 h1 span{color:var(--gx)}
 .sync{
@@ -140,27 +146,27 @@ main{max-width:700px;margin:0 auto;padding:12px 16px 56px}
   text-transform:uppercase;
 }
 
-/* Okienko w stylu Cyber HUD */
+/* Okienko — neutralny stalowy HUD */
 .gap{
   display:flex;align-items:center;justify-content:space-between;gap:10px;
   margin:8px 0;padding:7px 14px;
   background:
     repeating-linear-gradient(
       -45deg,
-      color-mix(in srgb,var(--gx) 8%,transparent) 0 8px,
+      var(--gap-bg) 0 8px,
       transparent 8px 16px
     ),
-    color-mix(in srgb,var(--card) 75%,transparent);
-  border:1px solid color-mix(in srgb,var(--gx) 35%,var(--line));
-  border-left:3px solid var(--gx);
+    color-mix(in srgb,var(--card) 60%,transparent);
+  border:1px solid var(--gap-line);
+  border-left:3px solid var(--gap-line);
   clip-path:polygon(0 0,calc(100% - 10px) 0,100% 10px,100% 100%,0 100%);
   font-size:12px;font-weight:700;text-transform:uppercase;
 }
 .gap .lbl{color:var(--mut);display:flex;align-items:center;gap:6px}
-.gap .lbl b{color:var(--gx2)}
+.gap .lbl b{color:var(--gap-ink)}
 .gap .dur{
-  color:var(--ink);background:var(--card);
-  border:1px solid var(--line);padding:1px 8px;
+  color:var(--gap-ink);background:var(--card);
+  border:1px solid var(--gap-line);padding:1px 8px;
 }
 
 /* Karta zajęć GX */
@@ -168,7 +174,7 @@ main{max-width:700px;margin:0 auto;padding:12px 16px 56px}
   position:relative;overflow:hidden;
   display:flex;gap:14px;align-items:stretch;
   background:linear-gradient(125deg, color-mix(in srgb,var(--c1) 14%, var(--card)), var(--card) 65%);
-  border:1px solid color-mix(in srgb,var(--c1) 35%, var(--line));
+  border:1px solid color-mix(in srgb,var(--c1) 38%, var(--line));
   border-left:4px solid var(--c1);
   clip-path:polygon(0 0,calc(100% - 14px) 0,100% 14px,100% 100%,0 100%);
   padding:13px 15px;margin:9px 0;
